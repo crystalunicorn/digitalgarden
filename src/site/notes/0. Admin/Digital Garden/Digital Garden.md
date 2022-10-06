@@ -11,3 +11,6 @@
 
 ### Recap
 - [[0. Admin/Digital Garden/Last Session|Last Session]]
+
+### Lore
+- [[2. Mysteries/Marigold Moon's Research|Marigold Moon's Research]]
