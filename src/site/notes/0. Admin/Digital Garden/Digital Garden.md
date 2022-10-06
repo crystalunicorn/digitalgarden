@@ -6,6 +6,8 @@
 
 ### Current Mysteries
 - [[2. Mysteries/Cyzste Zimno|Cyzste Zimno]]
+- [[2. Mysteries/'Ghostly' Figure|'Ghostly' Figure]]
+
 
 ### Recap
 - [[0. Admin/Digital Garden/Last Session|Last Session]]
