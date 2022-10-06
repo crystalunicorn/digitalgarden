@@ -4,6 +4,8 @@
 
 # 🎃 Welcome to My Twisted Mind 👻
 
+*end my suffering*
+
 ## Current Location
 [[3. Locations/Settlements/Riverbed|Riverbed]]
 
