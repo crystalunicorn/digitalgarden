@@ -36,11 +36,13 @@
 [[2. Mysteries/Black Sludge|Black Sludge]]
 #### Lore
 [[3. Locations/Continent & Regions/Soven'dul|Soven'dul]]
+[[1. Characters/Factions & Groups/The Gemstone Dragons|The Gemstone Dragons]]
 [[2. Mysteries/Marigold Moon's Research|Marigold Moon's Research]] (WIP)
 
 ---
 
-### choices (as stated by dragons)
+### choices in stopping the dragons
+*(as stated by the Gemstone Dragons)*
 - Fight the dragons.
 - Prevent the dragons from waking.
 - Find [[Sardior|Sardior]].
