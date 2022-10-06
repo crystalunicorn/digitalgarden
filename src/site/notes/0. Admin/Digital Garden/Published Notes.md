@@ -15,7 +15,7 @@
 | [[2. Mysteries/Father Jonathan.md\|Father Jonathan]]                                                   | A mysterious silver-masked face that appears in mirrors during prayer.                      | NPC      |
 | [[3. Locations/Buildings & Landmarks/Father's Court.md\|Father's Court]]                               | Colesseum-like amphitheater of white marble.                                                | building |
 | [[3. Locations/Buildings & Landmarks/Giant Mouse Statue of Ilmater.md\|Giant Mouse Statue of Ilmater]] | A massive, crumbling statue of a mouse, Ilmater.                                            | landmark |
-| [[4. World/Dieties/Ilmater.md\|Ilmater]]                                                               |                                                                                             | diety    |
+| [[4. World/Dieties/Ilmater.md\|Ilmater]]                                                               | The Broken God. Diety revered by settlers.                                                  | diety    |
 | [[2. Mysteries/Marigold Moon's Research.md\|Marigold Moon's Research]]                                 | \-                                                                                          | \-       |
 | [[0. Admin/Digital Garden/Published Notes.md\|Published Notes]]                                        | \-                                                                                          | \-       |
 | [[3. Locations/Settlements/Riverbed.md\|Riverbed]]                                                     | Riverside settlement and home of what looks to be a cult?                                   | place    |
