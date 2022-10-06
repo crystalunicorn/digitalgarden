@@ -4,13 +4,21 @@
 
 ## summary:
 Our first day in Riverbed, an *interesting* village. Most storefronts seem a mess, the denizens don't appear happy but still grateful for what they have. There's a... cultish admiration of Father Jonathan, his influence is seen everywhere. Guards in black robes or black armor prowl the streets, akin to morality police no doubt. Mirrors hang all around the interiors, the eyes of Father Jonathan are everywhere.
+
 The group procures residence in an Inn, then split up to do this or that in town.
+
 Bast tours the town, managing to piss off everyone she comes across but learns quite a lot at the Church of the Father.
+
 Orpheus and Emile visit an alchemist to drop off the Black Sludge to be examined. Hopefully that old halfling stays safe...
+
 Julierose and Syn head out to survey the tunnel, discovering something--likely a bear--has taken residence inside. While out, Julierose spots a tailed creature scurrying into the giant mouse statue North of town.
+
 The party reconvenes and (most) knowledge is exchanged. Salem is sent to confirm the presence of lizardfolk and any survivors. Salem spots the lizards, but is shot down by two armored guards from afar, which tells us access to the statue is forbidden.
+
 While Orpheus casts his bones, Bast and Syn have a big argument over Bast supposedly signing us up for the 'basket ball' game as "The Chosen Ones" which would not be great for keeping our cover. Orpheus lets us know that "whoever's waiting for help in the statue won't be at risk if they stay there another day." Bast is then dragged away to take our names off the sign-up sheet, where hilarity and hijinks ensues.
+
 Meanwhile, Orpheus takes Julierose upstairs in the inn, having a heart-to-heart. He then makes a decision.
+
 ***Orpheus reveals to the mirror that we have gemstone scales.***
 
 ---
