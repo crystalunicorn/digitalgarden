@@ -49,3 +49,7 @@
 	- dragon more powerful than any other
 	- there are only rumors of his existence
 - Break out [[1. Characters/Factions & Groups/The Gemstone Dragons|The Gemstone Dragons]] from the Astral Plane.
+
+---
+
+[[0. Admin/Digital Garden/Published Notes|Published Notes]] - *list of all published notes for reference.*
