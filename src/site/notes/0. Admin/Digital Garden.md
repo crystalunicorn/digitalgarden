@@ -3,3 +3,4 @@
 ---
 
 # Welcome to My Twisted Mind 👻
+- [[2. Mysteries/Cyzste Zimno|Cyzste Zimno]]
