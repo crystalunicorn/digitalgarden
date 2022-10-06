@@ -3,7 +3,7 @@
 ---
 
 # public notes so far
-*Let me know if any of these links aren't working!*
+*Let me know if any of these links aren't working! The obsidian plugin I'm using is kinda finicky.*
 | File                                                                                                   | Description                                                                                 | type     |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | -------- |
 | [[2. Mysteries/'Ghostly' Figure.md\|'Ghostly' Figure]]                                                 | A mysterious figure with one glowing white eye, garbed in black, and holding a white staff. | NPC      |
