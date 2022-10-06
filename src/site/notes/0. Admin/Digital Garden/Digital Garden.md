@@ -4,14 +4,6 @@
 
 # 🎃 Welcome to My Twisted Mind 👻
 
-> [!info] Status
-> 🗺 **current location:** Riverbed
-> 
-> 💤 **long rest?:** no / high resources
-> 
-> 🎯 **goals:** 
-> - search for signs of the masked man or lizardfolk in Riverbed
-> - head for Mono'lak to research Cyzste Zimno & the Dragon War
 
 
 ### Current Mysteries
