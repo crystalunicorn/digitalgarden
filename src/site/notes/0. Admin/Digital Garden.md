@@ -8,4 +8,4 @@
 - [[2. Mysteries/Cyzste Zimno|Cyzste Zimno]]
 
 ### Last Session
-- [[6. Inbox - Session Notes/2022-10-02#log|2022-10-02#log]]
+- [[6. Inbox - Session Notes/2022-10-02|2022-10-02]]
