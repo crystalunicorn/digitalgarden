@@ -16,6 +16,8 @@
 - has shared her [[2. Mysteries/Marigold Moon's Research|research]] on Cyzste with us
 - banned from the [[Mono'lak Observatory|Mono'lak Observatory]]
 	- *likely deliberate*, Aspirants are keen on the rules and social etiquette in Mono'lak
+- Orpheus Augury: Is it a good idea to tell Marigold Moon the true nature of Cyzste Zimno?
+	- every piece snaps (definitive woe)
 
 ---
 
