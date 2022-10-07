@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mysteries/father-jonathan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"mystery/papajohn","permalink":"/mystery/papajohn/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 ##### Description
