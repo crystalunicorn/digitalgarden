@@ -29,6 +29,11 @@
 ### 🍎 Reference:
 #### Recap
 [[0. Admin/Digital Garden/2022-10-02 - Last Session|2022-10-02 - Last Session]]
+#### Locations
+- [[3. Locations/Settlements/Riverbed|Riverbed]]
+	- [[0. Admin/Digital Garden/Proxies/ChurchOfTheFather|Church of the Father]]
+	- [[0. Admin/Digital Garden/Proxies/FatherCourt|Father's Court]]
+	- [[0. Admin/Digital Garden/Proxies/MouseStatue|Giant Mouse Statue of Ilmater]]
 #### Current Mysteries
 [[2. Mysteries/Cyzste Zimno|Cyzste Zimno]]
 [[2. Mysteries/'Ghostly' Figure|'Ghostly' Figure]]
@@ -36,7 +41,7 @@
 [[2. Mysteries/Black Sludge|Black Sludge]]
 #### Lore
 [[3. Locations/Continent & Regions/Soven'dul|Soven'dul]]
-[[1. Characters/Factions/The Gemstone Dragons|The Gemstone Dragons]]
+[[0. Admin/Digital Garden/Proxies/GemstoneDragons|The Gemstone Dragons]]
 [[2. Mysteries/Marigold Moon's Research|Marigold Moon's Research]] (WIP)
 
 ---
