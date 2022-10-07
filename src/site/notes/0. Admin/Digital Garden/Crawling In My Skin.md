@@ -49,13 +49,14 @@
 ---
 
 ### choices in stopping the dragons
-*(as stated by the Gemstone Dragons)*
+*(as suggested by the Gemstone Dragons)*
 - Fight the dragons.
 - Prevent the dragons from waking.
 - Find [[Sardior|Sardior]].
 	- dragon more powerful than any other
 	- there are only rumors of his existence
 - Break out [[0. Admin/Digital Garden/Proxies/GemstoneDragons|The Gemstone Dragons]] from the Astral Plane.
+- *We can, of course, think of alternatives. These are just suggestions.*
 
 ---
 
