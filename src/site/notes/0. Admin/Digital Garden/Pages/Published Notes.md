@@ -18,9 +18,11 @@
 | [[2. Mysteries/Father Jonathan.md\|Father Jonathan]]                         | A mysterious silver-masked face that appears in mirrors during prayer.                      | NPC      |
 | [[0. Admin/Digital Garden/Proxies/FatherCourt.md\|FatherCourt]]              | Colesseum-like amphitheater of white marble.                                                | building |
 | [[0. Admin/Digital Garden/Proxies/GemstoneDragons.md\|GemstoneDragons]]      | 5 gemstone dragons trapped on the Astral Plane.                                             | faction  |
+| [[3. Locations/Subregions/Honeymoon Island.md\|Honeymoon Island]]            | A humble island housing humble settlements.                                                 | place    |
 | [[4. World/Dieties/Ilmater.md\|Ilmater]]                                     | The Broken God. Diety revered by settlers.                                                  | diety    |
 | [[0. Admin/Digital Garden/Pages/Last Session.md\|Last Session]]              | \-                                                                                          | \-       |
 | [[2. Mysteries/Lizardfolk Den.md\|Lizardfolk Den]]                           | A lizardfolk tunnel near Azmarin Village, used for sacrifice.                               | place    |
+| [[1. Characters/NPCs/Marigold Moon.md\|Marigold Moon]]                       | A courtier in green robe with a sack, often reading.                                        | NPC      |
 | [[2. Mysteries/Marigold Moon's Research.md\|Marigold Moon's Research]]       | RE: Cyzste Zimno, The Holy Light, Ashardalon                                                | lore     |
 | [[0. Admin/Digital Garden/Proxies/MouseStatue.md\|MouseStatue]]              | A massive, crumbling statue of a mouse, Ilmater.                                            | landmark |
 | [[0. Admin/Digital Garden/Pages/Published Notes.md\|Published Notes]]        | \-                                                                                          | \-       |
