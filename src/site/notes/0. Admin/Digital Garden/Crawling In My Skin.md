@@ -53,7 +53,7 @@
 - Find [[Sardior|Sardior]].
 	- dragon more powerful than any other
 	- there are only rumors of his existence
-- Break out [[1. Characters/Factions/The Gemstone Dragons|The Gemstone Dragons]] from the Astral Plane.
+- Break out [[0. Admin/Digital Garden/Proxies/GemstoneDragons|The Gemstone Dragons]] from the Astral Plane.
 
 ---
 
