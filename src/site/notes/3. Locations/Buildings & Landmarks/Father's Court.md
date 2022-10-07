@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-locations/buildings-and-landmarks/father-s-court/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"fatherscourt","permalink":"/fatherscourt/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 *Colesseum-like amphitheater of white marble.*
