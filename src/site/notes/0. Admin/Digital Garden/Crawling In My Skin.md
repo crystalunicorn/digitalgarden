@@ -6,7 +6,7 @@
 *end my suffering*
 
 ### 🍉 Status:
-🗺 **current location:** [[3. Locations/Settlements/Riverbed|Riverbed]]
+🌐 **current location:** [[3. Locations/Settlements/Riverbed|Riverbed]]
 💤 **long rest?:** no / high resources
 🎯 **goals:**
 - search for signs of the [[2. Mysteries/'Ghostly' Figure|masked man]] or lizardfolk in Riverbed
