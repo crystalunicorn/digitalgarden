@@ -6,7 +6,7 @@
 
 ## Description
 - A small village by the river.
-- On the northern part of [[Honeymoon Island|Honeymoon Island]], in [[3. Locations/Subregions/Myxinia|Myxinia]].
+- On the northern part of [[3. Locations/Subregions/Honeymoon Island|Honeymoon Island]], in [[3. Locations/Subregions/Myxinia|Myxinia]].
 
 ## Notes
 - [[4. World/Creatures/Lizardfolk|Lizardfolk]] are raiding & [[2. Mysteries/Azmarin Village Kidnappings|kidnapping villagers]]
