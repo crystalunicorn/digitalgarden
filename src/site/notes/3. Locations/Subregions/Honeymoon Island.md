@@ -8,7 +8,7 @@
 - An island in South East [[3. Locations/Subregions/Myxinia|Myxinia]], surrounded by the Devoted Rivers.
 
 ## Notes
-- 
+- far from the capitol, outside of reliable protection
 
 ### Lonely Lovers
 - rumor, legend, old wives tale
@@ -19,6 +19,8 @@
 	- the mentioned tower's ruins may even be on the island
 
 ## Relevant
-| File                                                             | Description                                             | Type  |
-| ---------------------------------------------------------------- | ------------------------------------------------------- | ----- |
-| [[3. Locations/Settlements/Azmarin Village.md\|Azmarin Village]] | A small fishing village, plagued with Lizardfolk raids. | place |
+| File                                                                             | Description                                             | Type  |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------- | ----- |
+| [[3. Locations/Settlements/Azmarin Village.md\|Azmarin Village]]                 | A small fishing village, plagued with Lizardfolk raids. | place |
+| [[1. Characters/NPCs/Kingsmen - Azmarin Village.md\|Kingsmen - Azmarin Village]] | A knight clad in golden armor.                          | NPC   |
+| [[1. Characters/NPCs/Marigold Moon.md\|Marigold Moon]]                           | A courtier in green robe with a sack, often reading.    | NPC   |
