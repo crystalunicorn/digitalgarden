@@ -58,10 +58,10 @@
 - ended in 482 (current year is 1482)
 - incredibly destructive drawn-out world
 	- created and destroyed lots of life
-- metallic vs chromatic dragons
+- Metallic vs Chromatic dragons
 	- both have very different visions of  how to rule
-	- chromatic wish to rule with an iron fist
-	- metallic wish to rule with absolute loyalty
+	- Chromatic wish to rule with an iron fist
+	- Metallic wish to rule with absolute loyalty
 	- similar to Chaos vs Order when brought to their extremes
 
 ## **[[2. Mysteries/Cyzste Zimno|Cyzste Zimno]]**
@@ -97,6 +97,15 @@
 - leader of The Chromatic Dragons
 - THE Ancient Red Dragon
 - often conflated with "The Holy Light"
+
+## **Blood Magic**
+- suspect that the [[2. Mysteries/'Ghostly' Figure|'Ghostly' Figure]] is sacrificing villagers to collect their blood for blood magic
+- possible reasons for blood magic:
+	- to amplify natural capabilities
+		- super senses? superhuman powers?
+	- to search for something
+- a somewhat obscure practice
+	- inconvenient and often immoral to source components (blood), naturally #unsure 
 
 </div></div>
 
