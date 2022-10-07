@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-world/dieties/ilmater/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"diety/ilmater","permalink":"/diety/ilmater/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # The Broken God
