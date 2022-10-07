@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"directknowledge","permalink":"/directknowledge/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"lore/gemknowledge","permalink":"/lore/gemknowledge/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 ## **Dragon Wars**
