@@ -33,10 +33,8 @@
 - massive mirror hangs above the lectern
 
 ## Relevant
-| File                                                          | Description                                                            | Type |
-| ------------------------------------------------------------- | ---------------------------------------------------------------------- | ---- |
-| [[2. Mysteries/Father Jonathan.md\|Father Jonathan]]          | A mysterious silver-masked face that appears in mirrors during prayer. | NPC  |
-| [[4. World/Lore/The Fall of Ilmater.md\|The Fall of Ilmater]] | Devotion to Ilmater dwindling.                                         | lore |
+| File | Description | Type |
+| ---- | ----------- | ---- |
 
 
 </div></div>
