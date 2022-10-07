@@ -5,7 +5,7 @@
 # Sessions
 | File                                                           | Summary                                                                                                                    | Num. |
 | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---- |
-| [[6. Inbox - Session Notes/2022-10-02.md\|2022-10-02]]         | An foreboding day touring Riverbed.                                                                                        | 6    |
+| [[6. Inbox - Session Notes/2022-10-02.md\|2022-10-02]]         | A foreboding day touring Riverbed.                                                                                         | 6    |
 | [[6. Inbox - Session Notes/2022-09-25.md\|2022-09-25]]         | Ambesh gives us Lore. We head for Riverbed, encountering a Stone Golem and a Madman on the road.                           | 5    |
 | [[6. Inbox - Session Notes/2022-09-15.md\|2022-09-15]]         | Recouperation and examination of Marigold Moon's research.                                                                 | 4    |
 | [[6. Inbox - Session Notes/Archive/2022-08-23.md\|2022-08-23]] | We make contact with a Gemstone Dragon, Saur'barag, for the first time.                                                    | 2.5  |
