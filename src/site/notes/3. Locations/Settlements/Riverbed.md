@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-locations/settlements/riverbed/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"riverbed","permalink":"/riverbed/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 *Riverside settlement and home of what looks to be a cult?*
@@ -35,5 +35,5 @@
 | [[3. Locations/Buildings & Landmarks/Glass Alchemist.md\|Glass Alchemist]]                             | Cluttered, dangerous, run by an old halfling.                                               | building |
 | [[3. Locations/Buildings & Landmarks/Running Halfling and the Belt.md\|Running Halfling and the Belt]] | A filthy inn with a beautiful view of the rivers                                            | building |
 | [[3. Locations/Buildings & Landmarks/The Brick.md\|The Brick]]                                         | A square brick building.                                                                    | building |
-| [[4. World/Lore/The Fall of Ilmater.md\|The Fall of Ilmater]]                                          | Devotion to Ilmater dwindling.                                                              | event    |
+| [[4. World/Lore/The Fall of Ilmater.md\|The Fall of Ilmater]]                                          | Devotion to Ilmater dwindling.                                                              | lore     |
 
