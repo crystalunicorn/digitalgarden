@@ -11,7 +11,7 @@
 	- seemed tribalistic
 
 ##### Notes
-- first discovered as a projection of an idividual in [[2. Mysteries/Lizardfolk Tunnel & Den|Lizardfolk Tunnel & Den]] - [[6. Inbox - Session Notes/Archive/2022-08-21|2022-08-21]]
+- first discovered as a projection of an idividual in [[2. Mysteries/Lizardfolk Den|Lizardfolk Den]] - [[6. Inbox - Session Notes/Archive/2022-08-21|2022-08-21]]
 - appears to have ties with the [[4. World/Creatures/Lizardfolk|Lizardfolk]]
 	- perhaps giving orders to them
 - "ghost" disappeared after departing with some choice words
