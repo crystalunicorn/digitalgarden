@@ -9,7 +9,6 @@
 | [[2. Mysteries/'Ghostly' Figure.md\|'Ghostly' Figure]]                                                 | A mysterious figure with one glowing white eye, garbed in black, and holding a white staff. | NPC      |
 | [[0. Admin/Digital Garden/2022-10-02 - Last Session.md\|2022-10-02 - Last Session]]                    | \-                                                                                          | \-       |
 | [[2. Mysteries/Black Sludge.md\|Black Sludge]]                                                         | A sentient black ichor that possesses it's victims.                                         | creature |
-| [[3. Locations/Buildings & Landmarks/Church of the Father.md\|Church of the Father]]                   | Large cathedral-like building in the center of town.                                        | building |
 | [[0. Admin/Digital Garden/Crawling In My Skin.md\|Crawling In My Skin]]                                | \-                                                                                          | \-       |
 | [[2. Mysteries/Cyzste Zimno.md\|Cyzste Zimno]]                                                         | A fabled longsword that ended the Dragon Wars many years ago.                               | legend   |
 | [[2. Mysteries/Father Jonathan.md\|Father Jonathan]]                                                   | A mysterious silver-masked face that appears in mirrors during prayer.                      | NPC      |
