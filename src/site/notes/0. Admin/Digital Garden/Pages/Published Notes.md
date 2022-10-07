@@ -20,7 +20,7 @@
 | [[0. Admin/Digital Garden/Proxies/GemstoneDragons.md\|GemstoneDragons]]      | 5 gemstone dragons trapped on the Astral Plane.                                             | faction  |
 | [[4. World/Dieties/Ilmater.md\|Ilmater]]                                     | The Broken God. Diety revered by settlers.                                                  | diety    |
 | [[0. Admin/Digital Garden/Pages/Last Session.md\|Last Session]]              | \-                                                                                          | \-       |
-| [[2. Mysteries/Lizardfolk Tunnel & Den.md\|Lizardfolk Tunnel & Den]]         | A lizardfolk tunnel near Azmarin Village, used for sacrifice.                               | place    |
+| [[2. Mysteries/Lizardfolk Den.md\|Lizardfolk Den]]                           | A lizardfolk tunnel near Azmarin Village, used for sacrifice.                               | place    |
 | [[2. Mysteries/Marigold Moon's Research.md\|Marigold Moon's Research]]       | RE: Cyzste Zimno, The Holy Light, Ashardalon                                                | lore     |
 | [[0. Admin/Digital Garden/Proxies/MouseStatue.md\|MouseStatue]]              | A massive, crumbling statue of a mouse, Ilmater.                                            | landmark |
 | [[0. Admin/Digital Garden/Pages/Published Notes.md\|Published Notes]]        | \-                                                                                          | \-       |
