@@ -14,23 +14,23 @@
 
 # The Dragons
 - [[Ambesh the Crystal|Ambesh the Crystal]]
-	- *The Free, The Changeling, The Elemental, the Timeless.
+	- *The Free, The Changeling, The Elemental, the Timeless.*
 	- assigned to: Jon/[[1. Characters/PCs/Julierose|Julierose]]
 
 - [[Saur'barag the Obsidian|Saur'barag the Obsidian]]
-	- *The Thinker, The Tinker, The Hotheaded 
+	- *The Thinker, The Tinker, The Hotheaded*
 	- assigned to: Mikey/[[1. Characters/PCs/Orpheus|Orpheus]]
 
 - [[Lynae the Sapphire|Lynae the Sapphire]]
-	- *The Peaceful, The Astral, The Potential 
+	- *The Peaceful, The Astral, The Potential*
 	- assigned to: Cath/[[1. Characters/PCs/Bast|Bast]]
 
 - [[Malva the Amethyst|Malva the Amethyst]]
-	- *The Wise, The Cold, The Hearth 
+	- *The Wise, The Cold, The Hearth*
 	- assigned to: Me/[[1. Characters/PCs/Synadriel|Synadriel]]
 
 - [[Myrthe The Emerald|Myrthe (Meer-ta) The Emerald]]
-	- *The Quick, The Watcher
+	- *The Quick, The Watcher*
 	- assigned to: Alan/[[1. Characters/PCs/Emile|Emile]]
 
 # History
