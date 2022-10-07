@@ -40,7 +40,7 @@
 [[2. Mysteries/Father Jonathan|Father Jonathan]]
 [[2. Mysteries/Black Sludge|Black Sludge]]
 #### Lore
-[[3. Locations/Continent & Regions/Soven'dul|Soven'dul]]
+[[0. Admin/Digital Garden/Proxies/World|Soven'dul]]
 [[0. Admin/Digital Garden/Proxies/GemstoneDragons|The Gemstone Dragons]]
 [[2. Mysteries/Marigold Moon's Research|Marigold Moon's Research]] (WIP)
 
