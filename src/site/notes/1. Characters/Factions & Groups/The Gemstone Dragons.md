@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gemstonedragons","permalink":"/gemstonedragons/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"ref/gemstonedragons","permalink":"/ref/gemstonedragons/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # The Dragons
