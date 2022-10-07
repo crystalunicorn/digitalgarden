@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mysteries/black-sludge/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"mystery/blacktar","permalink":"/mystery/blacktar/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 ##### Description
