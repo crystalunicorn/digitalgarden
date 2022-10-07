@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mousestatue","permalink":"/mousestatue/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"riverbed/mousestatue","permalink":"/riverbed/mousestatue/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 ##### Description
