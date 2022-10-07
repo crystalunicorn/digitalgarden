@@ -43,7 +43,7 @@
 #### Lore
 [[0. Admin/Digital Garden/Proxies/World|Soven'dul]]
 [[0. Admin/Digital Garden/Proxies/GemstoneDragons|The Gemstone Dragons]]
-
+[[4. World/Lore/Direct Knowledge|Direct Lore from The Gemstone Dragons]]
 [[2. Mysteries/Marigold Moon's Research|Marigold Moon's Research]] (WIP)
 
 ---
