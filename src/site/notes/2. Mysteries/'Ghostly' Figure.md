@@ -25,7 +25,7 @@
 - capable of speaking [[Common|Common]] and [[4. World/Languages/Draconic|Draconic]]
 
 ##### Honeymoon Island
-- seemingly taken an interest in [[Honeymoon Island|Honeymoon Island]]
+- seemingly taken an interest in [[3. Locations/Subregions/Honeymoon Island|Honeymoon Island]]
 	- looked at and/or burned books from the [[Mono'lak Observatory|Mono'lak Observatory]] 
 		- Mono'lak Observatory stamp design:
 			- a collection of stars with a telescope
