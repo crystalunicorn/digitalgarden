@@ -34,7 +34,7 @@ A mysterious figure, lost to the annuls of history, said to have ended the Drago
 - [[1. Characters/NPCs/Marigold Moon|Marigold Moon]]
 
 ##### possible:
-- [Ghostly Figure](obsidian://open?vault=Chosen%20Flame&file=Mysteries%2F'Ghostly'%20Figure)
+- [[2. Mysteries/'Ghostly' Figure#Honeymoon Island|'Ghostly' Figure]]
 
 ---
 
