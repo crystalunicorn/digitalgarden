@@ -56,7 +56,7 @@
 
 ## **Dragon Wars**
 - ended in 482 (current year is 1482)
-- incredibly destructive drawn-out world
+- incredibly destructive drawn-out world-shaping war
 	- created and destroyed lots of life
 - Metallic vs Chromatic dragons
 	- both have very different visions of  how to rule
