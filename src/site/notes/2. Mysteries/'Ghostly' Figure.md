@@ -35,4 +35,4 @@
 - also in looked at/tried to burn a children's book
 	- about a knight that fought the dragons many years ago, using a weapon made by dragons
 		- hid the weapon away
-			- possibly related to the knight's family (?) #unsure
+	- now suspect it's a fable about [[2. Mysteries/Cyzste Zimno|Cyzste Zimno/Cold Crusader]]
