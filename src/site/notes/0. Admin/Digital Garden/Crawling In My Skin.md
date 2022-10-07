@@ -28,7 +28,8 @@
 
 ### 🍎 Reference:
 #### Recap
-[[0. Admin/Digital Garden/2022-10-02 - Last Session|2022-10-02 - Last Session]]
+[[6. Inbox - Session Notes/2022-10-02|2022-10-02 - Last Session]]
+[[0. Admin/Sessions Log|Sessions Log]]
 #### Locations
 - [[3. Locations/Settlements/Riverbed|Riverbed]]
 	- [[0. Admin/Digital Garden/Proxies/ChurchOfTheFather|Church of the Father]]
