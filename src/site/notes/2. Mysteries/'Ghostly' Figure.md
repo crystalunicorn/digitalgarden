@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mysteries/ghostly-figure/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"mystery/caveman","permalink":"/mystery/caveman/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 ##### Description
