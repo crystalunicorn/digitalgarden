@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mysteries/cyzste-zimno/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"mystery/zimno","permalink":"/mystery/zimno/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 *(zee-ch-ay zim-noh)*
