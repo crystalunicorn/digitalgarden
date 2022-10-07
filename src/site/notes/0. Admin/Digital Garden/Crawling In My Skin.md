@@ -36,7 +36,7 @@
 [[2. Mysteries/Black Sludge|Black Sludge]]
 #### Lore
 [[3. Locations/Continent & Regions/Soven'dul|Soven'dul]]
-[[1. Characters/Factions & Groups/The Gemstone Dragons|The Gemstone Dragons]]
+[[1. Characters/Factions/The Gemstone Dragons|The Gemstone Dragons]]
 [[2. Mysteries/Marigold Moon's Research|Marigold Moon's Research]] (WIP)
 
 ---
@@ -48,7 +48,7 @@
 - Find [[Sardior|Sardior]].
 	- dragon more powerful than any other
 	- there are only rumors of his existence
-- Break out [[1. Characters/Factions & Groups/The Gemstone Dragons|The Gemstone Dragons]] from the Astral Plane.
+- Break out [[1. Characters/Factions/The Gemstone Dragons|The Gemstone Dragons]] from the Astral Plane.
 
 ---
 
