@@ -23,6 +23,7 @@
 ##### questions to ask the dragons
 - who is Ignacious and why is he often mentioned in the same breath as Ashardalon?
 - how did the metallic or gemstone dragons come to be?
+- who is Jalon Valas?
 
 ---
 
