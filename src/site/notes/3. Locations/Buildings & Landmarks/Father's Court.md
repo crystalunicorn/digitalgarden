@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"fatherscourt","permalink":"/fatherscourt/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"riverbed/fatherscourt","permalink":"/riverbed/fatherscourt/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 *Colesseum-like amphitheater of white marble.*
