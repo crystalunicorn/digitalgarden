@@ -29,7 +29,7 @@ A mysterious figure, lost to the annuls of history, said to have ended the Drago
 
 
 ### NPCs aware of Cyzste's existence:
-- [[1. Characters/Factions & Groups/The Gemstone Dragons|The Gemstone Dragons]]
+- [[1. Characters/Factions/The Gemstone Dragons|The Gemstone Dragons]]
 	- [[Myrthe The Emerald|Myrthe The Emerald]] has seen it
 - [[1. Characters/NPCs/Marigold Moon|Marigold Moon]]
 
