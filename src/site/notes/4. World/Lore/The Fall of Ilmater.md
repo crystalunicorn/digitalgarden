@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-world/lore/the-fall-of-ilmater/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"lore/ilmaterfall","permalink":"/lore/ilmaterfall/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 [[4. World/Dieties/Ilmater|Ilmater]] was the worshiped god in [[3. Locations/Settlements/Riverbed|Riverbed]] until ominous things began to happen.
