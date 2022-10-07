@@ -43,7 +43,7 @@
 # Notes
 - first contacted just outside of Riverbed on the night of a full moon - [[6. Inbox - Session Notes/Archive/2022-08-23|2022-08-23]]
 
-# Direct Knowledge
+# [[4. World/Lore/Direct Knowledge|Direct Knowledge]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
