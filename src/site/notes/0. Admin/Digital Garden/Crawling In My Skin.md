@@ -36,6 +36,8 @@
 	- [[0. Admin/Digital Garden/Proxies/FatherCourt|Father's Court]]
 	- [[0. Admin/Digital Garden/Proxies/MouseStatue|Giant Mouse Statue of Ilmater]]
 - [[3. Locations/Settlements/Azmarin Village|Azmarin Village]]
+#### Persons of Interest
+- [[1. Characters/NPCs/Marigold Moon|Marigold Moon]]
 #### Current Mysteries
 - [[2. Mysteries/Cyzste Zimno|Cyzste Zimno]]
 - [[2. Mysteries/'Ghostly' Figure|'Ghostly' Figure]]
