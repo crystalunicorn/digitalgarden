@@ -28,7 +28,7 @@
 
 ### Basket Ball
 - 2 teams of 5 deliver ball into hoops for points
-- bloody sport, ==blood comes from enchantments on the ball== and what happens over the course of the game
+- bloody sport, ==blood comes from enchantments on the ball== and what happens over the course of the game #blood
 	- contact seems permitted
 - winning team is the "Riverbed Rogues" lmao
 - winners of 'Basket Ball' may join in a fest with Father Jonathan in the [[3. Locations/Buildings & Landmarks/Church of the Father|Church of the Father]]
