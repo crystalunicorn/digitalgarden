@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-admin/digital-garden/proxies/church-of-the-father/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"riverbed/fatherchurch","permalink":"/riverbed/fatherchurch/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
