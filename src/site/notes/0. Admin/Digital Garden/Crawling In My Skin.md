@@ -35,6 +35,7 @@
 	- [[0. Admin/Digital Garden/Proxies/ChurchOfTheFather|Church of the Father]]
 	- [[0. Admin/Digital Garden/Proxies/FatherCourt|Father's Court]]
 	- [[0. Admin/Digital Garden/Proxies/MouseStatue|Giant Mouse Statue of Ilmater]]
+- [[3. Locations/Settlements/Azmarin Village|Azmarin Village]]
 #### Current Mysteries
 [[2. Mysteries/Cyzste Zimno|Cyzste Zimno]]
 [[2. Mysteries/'Ghostly' Figure|'Ghostly' Figure]]
