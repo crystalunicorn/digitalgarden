@@ -21,3 +21,4 @@
 | [[3. Locations/Settlements/Riverbed.md\|Riverbed]]                                                     | Riverside settlement and home of what looks to be a cult?                                   | place    |
 | [[3. Locations/Continent & Regions/Soven'dul.md\|Soven'dul]]                                           | \-                                                                                          | \-       |
 | [[4. World/Lore/The Fall of Ilmater.md\|The Fall of Ilmater]]                                          | Devotion to Ilmater dwindling.                                                              | event    |
+| [[1. Characters/Factions & Groups/The Gemstone Dragons.md\|The Gemstone Dragons]]                      | 5 gemstone dragons trapped on the Astral Plane.                                             | faction  |
