@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-characters/factions-and-groups/the-gemstone-dragons/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"gemstonedragons","permalink":"/gemstonedragons/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # The Dragons
