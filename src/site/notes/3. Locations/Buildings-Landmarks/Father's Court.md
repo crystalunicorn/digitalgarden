@@ -2,10 +2,10 @@
 {"dg-publish":true,"dg-permalink":"riverbed/fathercourt","permalink":"/riverbed/fathercourt/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-*Colesseum-like amphitheater of white marble.*
+*Colosseum-like amphitheater of white marble.*
 
 ## Description
-- Amphitheatre of white marble, appears colesseum-like
+- Amphitheatre of white marble, appears colosseum-like
 - located in [[3. Locations/Settlements/Riverbed|Riverbed]]
 
 ## Notes
