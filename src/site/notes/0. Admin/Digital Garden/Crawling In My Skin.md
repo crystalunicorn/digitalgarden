@@ -5,6 +5,9 @@
 # 🎃 Welcome to My Twisted Mind 👻
 *end my suffering*
 
+> [!update]
+> Added [[2. Mysteries/Dragons Awakening|Dragons Awakening]], [[4. World/Lore/Direct Knowledge|Direct Lore]] from the Gemstone Dragons, and fully transcribed [[2. Mysteries/Marigold Moon's Research|Marigold Moon's Research]]!
+
 ### 🍉 Status:
 🌐 **current location:** [[3. Locations/Settlements/Riverbed|Riverbed]]
 💤 **long rest?:** no / high resources
@@ -40,6 +43,8 @@
 #### Persons of Interest
 - [[1. Characters/NPCs/Marigold Moon|Marigold Moon]]
 #### Current Mysteries
+- [[2. Mysteries/Dragons Awakening|Dragons Awakening]]
+	- [[2. Mysteries/Dragons Awakening#Known Dragons|Known Dragons]]
 - [[2. Mysteries/Cyzste Zimno|Cyzste Zimno]]
 - [[2. Mysteries/'Ghostly' Figure|'Ghostly' Figure]]
 - [[2. Mysteries/Father Jonathan|Father Jonathan]]
@@ -50,18 +55,6 @@
 - [[1. Characters/Factions/The Gemstone Dragons|The Gemstone Dragons]]
 	- [[4. World/Lore/Direct Knowledge|Direct Lore from The Gemstone Dragons]]
 - [[2. Mysteries/Marigold Moon's Research|Marigold Moon's Research]]
-
----
-
-### choices in stopping the dragons
-*(as suggested by the Gemstone Dragons)*
-- Fight the dragons.
-- Prevent the dragons from waking.
-- Find [[Sardior|Sardior]].
-	- dragon more powerful than any other
-	- there are only rumors of his existence
-- Break out [[0. Admin/Digital Garden/Proxies/GemstoneDragons|The Gemstone Dragons]] from the Astral Plane.
-- *We can, of course, think of alternatives. These are just suggestions.*
 
 ---
 
