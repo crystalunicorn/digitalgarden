@@ -3,7 +3,7 @@
 ---
 
 ##### Description
-- A crumbling statue of a giant mouse
+- A broken, crumbling statue of a giant mouse
 - comparable in size to the Statue of Liberty
 
 ##### Notes
