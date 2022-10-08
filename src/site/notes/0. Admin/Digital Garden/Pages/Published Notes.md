@@ -24,6 +24,7 @@
 | [[4. World/Dieties/Ilmater.md\|Ilmater]]                                                             | The Broken God. Diety revered by settlers.                                                            | diety    |
 | [[4. World/Historical Figures/Jalanvaloss.md\|Jalanvaloss]]                                          | Prime Arc Silver Dragon                                                                               | dragon   |
 | [[0. Admin/Digital Garden/Pages/Last Session.md\|Last Session]]                                      | \-                                                                                                    | \-       |
+| [[4. World/Creatures/Lizardfolk.md\|Lizardfolk]]                                                     | Creatures brought back from extinction.                                                               | creature |
 | [[2. Mysteries/Lizardfolk Den.md\|Lizardfolk Den]]                                                   | A lizardfolk tunnel near Azmarin Village, used for sacrifice.                                         | place    |
 | [[1. Characters/NPCs/Marigold Moon.md\|Marigold Moon]]                                               | A courtier in green robe with a sack, often reading.                                                  | NPC      |
 | [[2. Mysteries/Marigold Moon's Research.md\|Marigold Moon's Research]]                               | RE: Cyzste Zimno, The Holy Light, Ashardalon                                                          | lore     |
