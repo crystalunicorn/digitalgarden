@@ -33,9 +33,9 @@
 - [[0. Admin/Sessions Log|Sessions Log]]
 #### Locations
 - [[3. Locations/Settlements/Riverbed|Riverbed]]
-	- [[0. Admin/Digital Garden/Proxies/ChurchOfTheFather|Church of the Father]]
-	- [[0. Admin/Digital Garden/Proxies/FatherCourt|Father's Court]]
-	- [[0. Admin/Digital Garden/Proxies/MouseStatue|Giant Mouse Statue of Ilmater]]
+	- [[3. Locations/Buildings-Landmarks/Church of the Father|Church of the Father]]
+	- [[3. Locations/Buildings-Landmarks/Father's Court|Father's Court]]
+	- [[3. Locations/Buildings-Landmarks/Giant Mouse Statue of Ilmater|Giant Mouse Statue of Ilmater]]
 - [[3. Locations/Settlements/Azmarin Village|Azmarin Village]]
 #### Persons of Interest
 - [[1. Characters/NPCs/Marigold Moon|Marigold Moon]]
