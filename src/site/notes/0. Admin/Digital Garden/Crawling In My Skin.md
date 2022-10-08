@@ -19,6 +19,7 @@
 - [ ] collapse the tunnel
 - [x] check for signs of new tracks leading to tunnel
 - [ ] investigate '[[2. Mysteries/Father Jonathan|Father Jonathan]]'
+- [ ] follow-up with the [[3. Locations/Buildings-Landmarks/Glass Alchemist|Glass Alchemist]] RE: [[2. Mysteries/Black Sludge#the sample|Black Sludge Sample]]
 
 ##### questions to ask the dragons
 - who is [[Ignacious|Ignacious]] and why is he often mentioned in the same breath as [[4. World/Historical Figures/Ashardalon|Ashardalon]]?
@@ -47,7 +48,7 @@
 - [[2. Mysteries/Father Jonathan|Father Jonathan]]
 - [[2. Mysteries/Black Sludge|Black Sludge]]
 #### Lore
-- [DM NOTES!!!](https://sovendul-lore.netlify.app/)
+- [DM NOTES!!!](https://apeiron-lore.netlify.app/)
 - [[3. Locations/Continent-Regions/Soven'dul|Soven'dul]]
 - [[1. Characters/Factions/The Gemstone Dragons|The Gemstone Dragons]]
 	- [[4. World/Lore/Direct Knowledge|Direct Lore from The Gemstone Dragons]]
