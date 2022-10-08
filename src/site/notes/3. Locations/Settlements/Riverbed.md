@@ -33,6 +33,7 @@
 | [[3. Locations/Buildings & Landmarks/Father's Court.md\|Father's Court]]                               | Colesseum-like amphitheater of white marble.                                                | building |
 | [[3. Locations/Buildings & Landmarks/Giant Mouse Statue of Ilmater.md\|Giant Mouse Statue of Ilmater]] | A massive, crumbling statue of a mouse, Ilmater.                                            | landmark |
 | [[3. Locations/Buildings & Landmarks/Glass Alchemist.md\|Glass Alchemist]]                             | Cluttered, dangerous, run by an old halfling.                                               | building |
+| [[4. World/Historical Figures/Jalanvaloss.md\|Jalanvaloss]]                                            | Prime Arc Silver Dragon                                                                     | dragon   |
 | [[3. Locations/Buildings & Landmarks/Running Halfling and the Belt.md\|Running Halfling and the Belt]] | A filthy inn with a beautiful view of the rivers                                            | building |
 | [[3. Locations/Buildings & Landmarks/The Brick.md\|The Brick]]                                         | A square brick building.                                                                    | building |
 | [[4. World/Lore/The Fall of Ilmater.md\|The Fall of Ilmater]]                                          | Devotion to Ilmater dwindling.                                                              | lore     |
