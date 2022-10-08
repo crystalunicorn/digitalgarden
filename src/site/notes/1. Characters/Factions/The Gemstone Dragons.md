@@ -77,7 +77,7 @@
 ## **The Holy Light**
 - *"What exactly is the Holy Light?"*
 - known as "parent" to dragon kind
-- brought the first dragon into existence, forever known as [[Ashardalon|Ashardalon]]
+- brought the first dragon into existence, forever known as [[4. World/Historical Figures/Ashardalon|Ashardalon]]
 - "almost like answered prayers" to those wishing for salvation from "the blight that the Flame and Ice brought upon the Material"
 - it is something above the dragons, unsure exactly what "The [[Holy Light|Holy Light]]" truly is
 - stood against the flames, controlling and bending them to it's own will
