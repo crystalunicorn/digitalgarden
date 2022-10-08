@@ -101,12 +101,12 @@ Bast wanders away to ~~get in trouble~~ investigate town
 		- Luren Ray (a beast) showed up in the town, a bad omen
 		- flooding of the devoted rivers
 		- crumbling of dutiful structure
-		- Father Jonathan says there is another: Jalon Valas
+		- Father Jonathan says there is another: Jalanvaloss
 			- a sort of prophet
 			- possibly a chosen one of a metallic dragon
 		- **Ilmater:** "the broken god" worshiped by people outside of ruler's reach, said to promise good tidings in the face of suffering, acts as a shield against horrible fates that befall their worshipers, one of the first to experience the Schism/great betrayal
-	- Courtrooms and where FJ speak to Jalon Valas is above the cathedral
-	- **[[4. World/Historical Figures/Jalon Valas|Jalon Valas]]:**
+	- Courtrooms and where FJ speak to Jalanvaloss is above the cathedral
+	- **[[4. World/Historical Figures/Jalanvaloss|Jalanvaloss]]:**
 		- prime arc silver dragon
 			- one of the first to make the metallic dragons born
 		- NOT a god, very odd the people are calling it a god
@@ -146,7 +146,7 @@ Julierose and Syn reach the tunnel, reconsider collapsing it just yet
 - small bear-like tracks (likely a cub, which means a momma bear will prob be around)
 - ==lizard-like tracks approached the tunnel from Riverbed, stayed 30ft away==
 
-*"A good person always does the work no matter how efficient."* - Aelyn reciting some sort of psalm, prob a Papa John/Jalon Valas teaching
+*"A good person always does the work no matter how efficient."* - Aelyn reciting some sort of psalm, prob a Papa John/Jalanvaloss teaching
 
 Orpheus telepathically asks if Aelyn has seen any lizardfolk in town
 - shakes her head, looks in disgust that someone would do this in their mind
