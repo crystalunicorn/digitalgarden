@@ -5,9 +5,6 @@
 # 🎃 Welcome to My Twisted Mind 👻
 *end my suffering*
 
-> [!update]
-> Added [[2. Mysteries/Dragons Awakening|Dragons Awakening]], [[4. World/Lore/Direct Knowledge|Direct Lore]] from the Gemstone Dragons, and fully transcribed [[2. Mysteries/Marigold Moon's Research|Marigold Moon's Research]]!
-
 ### 🍉 Status:
 🌐 **current location:** [[3. Locations/Settlements/Riverbed|Riverbed]]
 💤 **long rest?:** no / high resources
