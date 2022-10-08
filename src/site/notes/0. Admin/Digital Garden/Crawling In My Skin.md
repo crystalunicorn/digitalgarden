@@ -45,6 +45,7 @@
 - [[2. Mysteries/Father Jonathan|Father Jonathan]]
 - [[2. Mysteries/Black Sludge|Black Sludge]]
 #### Lore
+- [DM NOTES!!!](https://sovendul-lore.netlify.app/)
 - [[0. Admin/Digital Garden/Proxies/World|Soven'dul]]
 - [[0. Admin/Digital Garden/Proxies/GemstoneDragons|The Gemstone Dragons]]
 	- [[4. World/Lore/Direct Knowledge|Direct Lore from The Gemstone Dragons]]
