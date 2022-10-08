@@ -27,6 +27,6 @@
 - the Devoted Rivers began to flood/waters rising
 - the [[3. Locations/Buildings & Landmarks/Giant Mouse Statue of Ilmater|Giant Mouse Statue of Ilmater]] began to crumble
 
-[[2. Mysteries/Father Jonathan|Father Jonathan]] appears, a prophet saying that there is another: [[4. World/Historical Figures/Jalon Valas|Jalon Valas]]
+[[2. Mysteries/Father Jonathan|Father Jonathan]] appears, a prophet saying that there is another: [[4. World/Historical Figures/Jalanvaloss|Jalanvaloss]]
 
 </div></div>
