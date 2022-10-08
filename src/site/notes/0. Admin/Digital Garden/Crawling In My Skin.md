@@ -46,7 +46,7 @@
 - [[2. Mysteries/Black Sludge|Black Sludge]]
 #### Lore
 - [DM NOTES!!!](https://sovendul-lore.netlify.app/)
-- [[0. Admin/Digital Garden/Proxies/World|Soven'dul]]
+- [[3. Locations/Continent-Regions/Soven'dul|Soven'dul]]
 - [[1. Characters/Factions/The Gemstone Dragons|The Gemstone Dragons]]
 	- [[4. World/Lore/Direct Knowledge|Direct Lore from The Gemstone Dragons]]
 - [[2. Mysteries/Marigold Moon's Research|Marigold Moon's Research]]
