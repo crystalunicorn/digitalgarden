@@ -24,7 +24,7 @@
 -  church is lined with scrolls
 	- black robed figures with green and white stripes chat amongst themselves, reading said scrolls
 - 3 stained glass windows behind lectern
-	- depicting statue of [[3. Locations/Buildings & Landmarks/Giant Mouse Statue of Ilmater|a large mouse]] surrounded by a church, standing tall among Riverbed
+	- depicting statue of [[3. Locations/Buildings-Landmarks/Giant Mouse Statue of Ilmater|a large mouse]] surrounded by a church, standing tall among Riverbed
 	- same image with roaring white waves surrounding the statue, now cracked
 	- Father Jonathan with crowd of people kneeling before him, stopping a wave with his hands and protecting the crowd
 - courtrooms where FJ speaks to Jalanvaloss is above the cathedral
