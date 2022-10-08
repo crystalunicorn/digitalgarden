@@ -21,9 +21,9 @@
 - [ ] investigate '[[2. Mysteries/Father Jonathan|Father Jonathan]]'
 
 ##### questions to ask the dragons
-- who is Ignacious and why is he often mentioned in the same breath as Ashardalon?
+- who is [[Ignacious|Ignacious]] and why is he often mentioned in the same breath as [[4. World/Historical Figures/Ashardalon|Ashardalon]]?
 - how did the metallic or gemstone dragons come to be?
-- who is Jalanvaloss?
+- who is [[4. World/Historical Figures/Jalanvaloss|Jalanvaloss]]?
 
 ---
 
