@@ -10,5 +10,5 @@ The [[1. Characters/Factions/The Gemstone Dragons|The Gemstone Dragons]] have ta
 | File                                                        | Description                                              | Faction           |
 | ----------------------------------------------------------- | -------------------------------------------------------- | ----------------- |
 | [[Ashardalon.md\|Ashardalon]]                               | The First Dragon, THE Ancient Red Dragon, The Holy Light | Chromatic Dragons |
-| [[4. World/Historical Figures/Jalon Valas.md\|Jalon Valas]] | Prime Arc Silver Dragon                                  | Metallic Dragons  |
+| [[4. World/Historical Figures/Jalanvaloss.md\|Jalanvaloss]] | Prime Arc Silver Dragon                                  | Metallic Dragons  |
 
