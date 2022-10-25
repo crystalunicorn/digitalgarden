@@ -8,7 +8,7 @@
 - a prophet for [[4. World/Historical Figures/Jalanvaloss|Jalanvaloss]], a Silver Dragon.
 
 ##### Notes
-- first seen when arriving in Riverbed, in a mirror inside a dwarf home - [[6. Inbox - Session Notes/2022-09-25|2022-09-25]]
+- first seen when arriving in Riverbed, in a mirror inside a dwarf home - [[Inbox - Session Notes/2022-09-25|2022-09-25]]
 - convinced town Jalanvaloss is a *diety* to be worshiped over [[4. World/Dieties/Ilmater|Ilmater]]
 	- conveniently appeared during [[4. World/Lore/The Fall of Ilmater|The Fall of Ilmater]] to convert the townsfolk
 - prayer must be done inside, appears compulsory
