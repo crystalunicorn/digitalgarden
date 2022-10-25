@@ -15,11 +15,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 [[4. World/Dieties/Ilmater|Ilmater]] was the worshiped god in [[3. Locations/Settlements/Riverbed|Riverbed]] until ominous things began to happen.
