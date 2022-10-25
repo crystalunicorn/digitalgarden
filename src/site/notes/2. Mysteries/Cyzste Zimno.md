@@ -8,7 +8,7 @@
 A mysterious figure, lost to the annuls of history, said to have ended the Dragon Wars many years ago with a legendary weapon.
 
 ### Notes
-- first told of it's existence by Marigold Moon - [[6. Inbox - Session Notes/Archive/2022-08-14|2022-08-14]]
+- first told of it's existence by Marigold Moon - [[Inbox - Session Notes/Archive/2022-08-14|2022-08-14]]
 - created by [[4. World/Historical Figures/Ashardalon|Ashardalon]] and/or the [[Holy Light|Holy Light]] to be a prison for "a portion" of [[Ymearlis|Ymearlis]]
 - takes the form of a ***fabled longsword***.
 	- said to hold the essence of the titan Ymearlis itself
