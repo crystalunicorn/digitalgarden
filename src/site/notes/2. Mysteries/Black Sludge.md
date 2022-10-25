@@ -7,7 +7,7 @@
 - "inorganic organism, parasitic in nature"
 
 ## Notes
-- first discovered on the way to Azmarin Village, trying to overtake Virag and Voth - [[6. Inbox - Session Notes/Archive/2022-08-07|2022-08-07]]
+- first discovered on the way to Azmarin Village, trying to overtake Virag and Voth - [[Inbox - Session Notes/Archive/2022-08-07|2022-08-07]]
 - appears around [[Narzeczona Crossing|Narzeczona Crossing]]
 - attempts to take over the bodies of creatures
 - capable of using the host's abilities
@@ -23,8 +23,8 @@
 - Orpheus has left the sample at The [[3. Locations/Buildings-Landmarks/Glass Alchemist|Glass Alchemist]] in [[3. Locations/Settlements/Riverbed|Riverbed]] for examination. *Results expected after dawn prayers.*
 
 ### encounters:
-- Near **Narzeczona Crossing**, attempting to overtake Voth and Virag - [[6. Inbox - Session Notes/Archive/2022-08-07|2022-08-07]]
-- Near **Narzeczona Crossing**, overtaken Shia Zenberu and using it's host's abilities to trap us in a repeating loop - [[6. Inbox - Session Notes/2022-09-25|2022-09-25]]
+- Near **Narzeczona Crossing**, attempting to overtake Voth and Virag - [[Inbox - Session Notes/Archive/2022-08-07|2022-08-07]]
+- Near **Narzeczona Crossing**, overtaken Shia Zenberu and using it's host's abilities to trap us in a repeating loop - [[Inbox - Session Notes/2022-09-25|2022-09-25]]
 
 ### victims:
 - [[Voth|Voth]] - rescued
