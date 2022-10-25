@@ -8,7 +8,7 @@
 	- became an archivist
 
 ##### Notes
-- first met in [[3. Locations/Settlements/Azmarin Village|Azmarin Village]] - [[6. Inbox - Session Notes/Archive/2022-08-14|2022-08-14]]
+- first met in [[3. Locations/Settlements/Azmarin Village|Azmarin Village]] - [[Inbox - Session Notes/Archive/2022-08-14|2022-08-14]]
 - stationed in [[Savigny|Savigny]], in the [[3. Locations/Subregions/Frejal|Frejal]] region up Northeast
 - ==looking for [[2. Mysteries/Cyzste Zimno|Cyzste Zimno]] in [[3. Locations/Subregions/Honeymoon Island|Honeymoon Island]]==
 	- highly unusual for an Aspirant to be away from their station
