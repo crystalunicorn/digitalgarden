@@ -6,169 +6,157 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
 
-</div>
-
-
-# All Work and D'oh Play
+# Father May I?
 ## summary:
-Our first day in Riverbed, an *interesting* village. Most storefronts seem a mess, the denizens don't appear happy but still grateful for what they have. There's a... cultish admiration of Father Jonathan, his influence is seen everywhere. Guards in black robes or black armor prowl the streets, akin to morality police no doubt. Mirrors hang all around the interiors, the eyes of Father Jonathan are everywhere.
-
-The group procures residence in an Inn, then split up to do this or that in town.
-
-Bast tours the town, managing to piss off everyone she comes across but learns quite a lot at the Church of the Father. Namely, Father Jonathan appears to be a prophet for Jalanvaloss, a *silver dragon*.
-
-Orpheus and Emile visit an alchemist to drop off the Black Sludge to be examined. Hopefully that old halfling stays safe...
-
-Julierose and Syn head out to survey the tunnel, discovering something--likely a bear--has taken residence inside. While out, Julierose spots a tailed creature scurrying into the giant mouse statue North of town.
-
-The party reconvenes and (most) knowledge is exchanged. Salem is sent to confirm the presence of lizardfolk and any survivors. Salem spots the lizards, but is shot down by two armored guards from afar, which tells us access to the statue is forbidden.
-
-While Orpheus casts his bones, Bast and Syn have a big argument over Bast supposedly signing us up for the 'basket ball' game as "The Chosen Ones" which would not be great for keeping our cover. Orpheus lets us know that "whoever's waiting for help in the statue won't be at risk if they stay there another day." Bast is then dragged away to take our names off the sign-up sheet, where hilarity and hijinks ensues.
-
-Meanwhile, Orpheus takes Julierose upstairs in the inn, having a heart-to-heart. He then makes a decision.
-
-***Orpheus reveals to the mirror that we have gemstone scales.***
+... (To Be Written)
 
 ---
 
 ## log:
-Orpheus and Julierose pray along with the dwarf before the mirror
+Bast, Syn, Emile do reconnaissance at the bridge attaching East and West Riverbed and the [[3. Locations/Buildings-Landmarks/Giant Mouse Statue of Ilmater|Mouse Statue]]. Bast and Syn pretend to be lovers on a night walk as a cover.
 
-- Prayer in the western side of Riverbed is a *forced thing*, not doing so gets you questioned
+*"We're under strict orders from both [[2. Mysteries/Father Jonathan|Father Jonathan]] and [[Kaiser|Kaiser]]."*
 
-*"Better government better people."* is a mantra said by the... Papa John worshipers...
+Bast's familiar sneaks into the [[3. Locations/Buildings-Landmarks/Giant Mouse Statue of Ilmater|Mouse Statue]].
+- Insides are lined with eggs and a pulsing fleshy membrane.
+- Bottom center is circled by cages.
+- Center of cages is a deep, red sigil, similar to the lizardfolk tunnel in Azmarin Village.
 
-- Silver-masked visage looks like a statue.
-	- Looks like a person, movements very slight, shimmering over mirror
-	- Beneath is the slow rising of a breath, appears to be holding their breath for short periods
-	- One-way mirror of scrying, the figure can see us in real time, we see a projection of the figure
+Julierose heads to the Father's Court--looking for Bast, Syn, and Emile--and sees a dark cloth hanging over a shabby hut.
+- Seems to grow (to the size of a shirt.)
+- Small white light glows beneath the cloth.
+- Shoots away when Julierose takes a step closer.
+- Went towards the river (the bridge).
 
-'Astral' fish swim overhead which give off light rather than torchlight 
+Julierose meets up with the rest of the party and says Orpheus might be in trouble.
 
-- **The [[3. Locations/Buildings-Landmarks/Running Halfling and the Belt|Running Halfling and the Belt]]:** a 'dirty' inn, beautiful view of the rivers
-	- clear view of the Eastern side of the river, where people dance on balconies
-	- floor creaks under every step
-	- cobwebs everywhere and vomit stains the wood
+According to Julierose: Orpheus told a mirror in the inn that we had gemstone scales, Julierose heard footsteps coming upstairs, Orpheus shoves her out of a window, then closes the window.
+- The mirror also had a crystal inlaid into it. It appears to light up when it's "in use," though we're not exactly sure what that entails.
+- Seems the troops mobilized quickly.
 
-- **The [[3. Locations/Buildings-Landmarks/Father's Court|Father's Court]]:** Amphitheatre of white marble, appears colosseum-like
-	- small fish swim through the stonework and walkways
-	- some sort of brass ball is the source of the projections #unsure 
-	- large slab above the center of the court, seems sports-like
-	- people seem to be chilling in the stands, appears to be a place to mill around
-	- building gifted by Father Jonathan
-	- once in a while people partake in a game of 'basket ball'
+ The group (Syn) briefly ponder leaving Orpheus behind, but is quickly reminded about Julierose's contract with him and what fate she may befall if something happens to ~~the fool~~ our companion.
 
-- **The Excellent Dungeon:** general store, only shop that seems open late
+Heading back to the inn, we see [[1. Characters/NPCs/Aelyn the Innskeeper|Aelyn the Innskeeper]] being dragged away by guards.
 
-Dark shadowy *thing* disappears down an alley near The Brick
+Inside the inn: the main lobby is ransacked with a crudely made dagger lying on the ground (not taken). The upstairs rooms are *not tossed*, however any personal belongings have been taken, like Syn's cloak. **According to Julierose:** *The mirror Orpheus was examining has also been taken.* The group theorizes either Orpheus took it or the guards did. We think it's likely Orpheus was taken *because* the room he and Julierose were reportedly in had not been tossed, meaning the guards didn't have to *search* for him. Bast suspects the Brick is a prison of some kind and the most likely place Orpheus has been taken.
 
-- Residents of Riverbed don't look *happy* but appear grateful for what they have
+Outside the inn, our cart and horse Meadow is in fine condition, no *apparent* tampering. However personal items have, again, been taken. Adventuring gear--or things of value--have been left alone.
 
-Rent 2 rooms in the Running Halfling - 11cp
+The group takes the cart and horse into a back alley for safe keeping.
 
-Feed Bast (not staying in the inn) - 1cp
+Emile spots a small shadowy figure in the darkness, beckoning for him. *"Pssst. Pssst."* Emile, Julierose, and Syn follow it. Partway through Emile stops and heads back to the cart with Bast.
 
-- **Hours of worship in Riverbed:** as soon as the sun touches the hills (dawn and dusk)
+Syn and Julie chase after a small child to the hut the cloth was hanging over prior.
+Bast and Emile stay behind with the cart.
 
-- 'Morality Police' wear black robes with red and green stripe under their armpit
+Within the shabby hut:
+- 2 small children, the one we followed and a small half-orc boy
+	- Shaylee - small human girl
+	- Casper - half (tidal) orc boy
+- a halfling wearing a cloak, lying on the floor
+	- cloak has a sigil similar to the one on Marigold's cloak
+		- likely from the [[Court of Aspirant|Court of Aspirant]]
+	- [[Idane Rumblegrove|Idane Rumblegrove]] - ArchMage of Riverbed
 
-- **[[1. Characters/NPCs/Aelyn the Innskeeper|Aelyn the Innskeeper]]:** appears to truly believe in Father Jonathan
+Idane's warning:
+- Darkness brewing, God in ruins, a false prophet taken over
+	- God in ruins: likely referencing Ilmator's fall
+	- False prophet: Father Jonathan
+- Father Jonathan has a partner, someone of "pure greed"
+- This "partner" has shriveled Idane's hand and arm for their "dark work"
+	- Idane's arm shows signs of frostbite.
+	- Later we learn Idane went into the [[3. Locations/Buildings-Landmarks/Giant Mouse Statue of Ilmater|Giant Mouse Statue of Ilmater]] to [stop the dark work being conducted] #unsure - Failing to do so, she tried to save as many as she could. She escaped with the two small children and a badly frostbitten arm.
+- No matter what, we must never enter The Brick.
 
-Bast wanders away to ~~get in trouble~~ investigate town
+The children are sent away to fetch some water. Idane nearly passes. Julierose resuscitates her (NAT20 let's fucking go.)
 
-- **[[3. Locations/Buildings-Landmarks/The Brick|The Brick]]:** a square brick building apparently guarded by black armor-clad knights
-	- they do not allow people to approach
+To save her, Syn and Julierose cut off Idane's arm. It's a brutal, bloody affair, but *Idane survives.* The children return shortly after, traumatized but understanding...
 
-*"Father Jonathan the savior the destroyer of ... (???)"* #unsure 
+Emile, having followed the children, reunites with Julierose and Syn (walking in on a gory scene and being understandably confused by it.) He's put to work helping clean up the blood.
 
-*"Only text is in the Church of the Father"*
+*Meanwhile, at the cart...*
 
-- **[[3. Locations/Buildings-Landmarks/Church of the Father|Church of the Father]]:** large cathedral-like building in the center of town #lore 
-	- bell that signifies worship hanging here
-	- statue in front of the doorway of the visage of Father Jonathan
-	- lining the church are scrolls
-	- black robed figures with green and white stripes chat among themselves and read scrolls
-	- lectern with a person in fancy black robes reading something off it
-	- 3 stained glass windows
-		- depicting statue of a large mouse surrounded by a church, standing tall among Riverbed, way over 50 ft tall standing in riverbed
-		- same image, roaring white waves, cracked statue
-		- Father Johnathan with crowd of people kneeling before them, stopping a wave with his hands and protecting the crowd
-	- **The Fall of Ilmater**
-		- Luren Ray (a beast) showed up in the town, a bad omen
-		- flooding of the devoted rivers
-		- crumbling of dutiful structure
-		- Father Jonathan says there is another: Jalanvaloss
-			- a sort of prophet
-			- possibly a chosen one of a metallic dragon
-		- **Ilmater:** "the broken god" worshiped by people outside of ruler's reach, said to promise good tidings in the face of suffering, acts as a shield against horrible fates that befall their worshipers, one of the first to experience the Schism/great betrayal
-	- Courtrooms and where FJ speak to Jalanvaloss is above the cathedral
-	- **[[4. World/Historical Figures/Jalanvaloss|Jalanvaloss]]:**
-		- prime arc silver dragon
-			- one of the first to make the metallic dragons born
-		- NOT a god, very odd the people are calling it a god
+Zombie Salem (a horribly mangled, 'incomplete' Salem) visits Bast in the cart, presumably looking for the rest of the party.
 
-Townsfolk seem suspicious of Bast's disproval of the inn, "Are Father's tidings not suitable for you?"
+Bast destroys zombie Salem. Tries to rip the gemstone from it's forehead (successfully but also unsuccessfully, Salem poofs.)
 
-Two mirrors are facing each bed in the room in the inn
+Bast hides the cart in the wilderness.
 
-Syn tries and fails to knock the mirrors over (with Julierose following her lead...)
+Bast transforms into a rat, uses keen smell to locate the others (noting Syn's particular perfume 😏), breaks Wild Shape, enters the hut. She's brought to speed on what happened with the halfling woman and we head out into the wilderness to speak with the dragons.
 
-- Winners of "Basket Ball" may join a feast with Father Jonathan
-	- 2 teams of 5 deliver ball into hoops for points
-	- blood comes from enchantments on the ball and what happens over the course of the game
-	- "Riverbed Rogues" lmao
+We converse with [[Myrthe The Emerald|Myrthe The Emerald]]. We only have time for one question.
+- "How do we save Orpheus?"
+	- *To save Orpheus, you need to strike when the sun touches the hills. Where the flames below lick the brick. And when the red steel is stained with their own.*
 
-Bast manages to offend a holy man lol... 😭
+We ask Idane a few questions. 
+- [[3. Locations/Buildings-Landmarks/The Brick|The Brick]]:
+	- "No one who enters the Brick comes out the same."
+- [[4. World/Historical Figures/Jalanvaloss|Jalanvaloss]]:
+	- **Likes Human Cuisine.** (Insert *Oh God Soylent Green Is People* joke.)
+	- ***"Do not eat the food."*** (Bast ate the food. She thought it tasted fine...)
 
-- **The [[3. Locations/Buildings-Landmarks/Glass Alchemist|Glass Alchemist]]:** cluttered and dangerous, lots of spills, etc.
-	- run by an old halfling (probably the aforementioned "hag" lmao)
+Casper says he's seen people carrying wood into The Brick. (*Where the flames below lick the brick*.) We ask him to take us in that direction.
 
-Orpheus and Emile go to the apothecary or w/e
-- Orpheus wants to get Black Sludge inspected (still frozen)
-- suspects it's an inorganic organism, parasitic in nature
-- sample is left with the halfling to be picked up mid morn
+*Meanwhile, with Orpheus...*
 
-A "dark fish" is spotted hanging in the air above an abandoned house in a rundown district (full of abandoned houses tbh)
-- flies off when Orpheus notices it
-- looked dark & ambiguous, "possibly a rag", seemed odd
+Orpheus has been kept in the Brick.
 
-Syn and Julierose head out to look for the tunnel, and any signs of Lizardfolk/etc.
+Orpheus is taken to meet with Father Jonathan in the [[3. Locations/Buildings-Landmarks/Church of the Father|Church of the Father]].
+- There is a large *dodecahedron* in the upper keep. [Exterior design is fuzzy.] #unsure 
+	- It opens up "like the wings of a butterfly unfolding for the first time."
+	- Inside is lined with mirrors upon mirrors. Father Jonathan emerges from within.
 
-Julierose notices movement on the [[3. Locations/Buildings-Landmarks/Giant Mouse Statue of Ilmater|Giant Mouse Statue of Ilmater]]
-- something with a tail scurries into the mouth
+Orpheus is offered to eat with Papa John. They have... Papa John's pizza. (It's a new fad! And tragically mid. Orpheus doesn't like it. He also eats it with a knife and fork.)
 
-Julierose and Syn reach the tunnel, reconsider collapsing it just yet
-- smells like something has been living in it
-- small bear-like tracks (likely a cub, which means a momma bear will prob be around)
-- ==lizard-like tracks approached the tunnel from Riverbed, stayed 30ft away==
+Father Jonathan briefly interrogates Orpheus.
+- "What is a gemstone dragon?"
+	- "A being not unlike a metallic or chromatic dragon. They live on another plane."
+- Orpheus says the gemstone scales are proof of "their eventual return".
+- Asks if Orpheus thinks he's more powerful, then demonstrates the "gifts" he's been given.
 
-*"A good person always does the work no matter how efficient."* - Aelyn reciting some sort of psalm, prob a Papa John/Jalanvaloss teaching
+The Father Jonathan sitting opposite of Orpheus collapses in a heap, revealed to be a skeleton being puppeted. The real Father Jonathan comes down from the ceiling.
+- He is a massive man. (Mechanically, nearly reaching the "Large" category.)
+- Holds the same staff as [[2. Mysteries/'Ghostly' Figure|'Ghostly' Figure]]. *Likely one in the same.*
+- Seems to wield ice powers.
+- Seems to crave power and control, with no care for free will. *Likely the partner of "pure greed" Idane mentioned.*
 
-Orpheus telepathically asks if Aelyn has seen any lizardfolk in town
-- shakes her head, looks in disgust that someone would do this in their mind
+Orpheus makes a run for the window, just barely avoiding Father Jonathan's *hold person*.
 
-Bast (retroactively) signs us up for basket ball as "The Chosen Ones"
+*Meanwhile, with the rest of the gang...*
 
-Orpheus sends Salem off to scout the giant mouse statue
-- goals:
-	- verify Lizardfolk
-	- verify survivors
-	- verify silver-masked figure operating there
-- spotted by two armored guards, one with green and red stripe, one orange stripe (destroyed Salem)
-- ==saw the same markings of Lizardfolk as in Azmarin Village==
+At the lumberyard, people are being paid a copper to ferry wood to The Brick. Emile and Julierose get in line. They are handed a slip of paper reading: Alolan Shalofo.
 
-Bast & Syn have a long argument over "The Chosen One" team name lmao
+At the Brick, Emile is turned away (likely for being too lanky.) Julierose is offered another copper to ferry wood *inside* of the Brick (likely for being too juicy.) Emile attempts to follow her inside with an *Invisibility* spell, but it propelled away. He drops the spell and runs in after her anyway.
 
-Orpheus says that someone who's waiting on our help in the statue will be fine if we don't go right now, or some shit
+Inside the Brick are rows and rows of jail cells, many of them quiet. [[1. Characters/NPCs/Aelyn the Innskeeper|Aelyn the Innskeeper]] is seen down here, eyes wide and unresponsive. (We later learn she's fricken dead as hell.) They get deeper inside, where it gets hotter and hotter...
 
-Bast, Syn, Emile go to take their team name off the sign-up sheet
-- Bast reveals their real names aren't on the sheet, so they... just don't have to show up...
-- Bast asks Emile why he didn't say so earlier (lol)
+Outside of the Brick: as dawn approaches, Syn and Bast spot two bloodied, limping guards coming from the Bridge and towards the Brick. *They wear red steel armor, covered with what seems to be their own blood.* A minute later, the two hear a loud crash.
 
-**Orpheus reveals to the mirror that we have gemstone scales**
+Orpheus falls from the top of the [[3. Locations/Buildings-Landmarks/Church of the Father|Church of the Father]]. With quick thinking, Bast casts *Entaglement* on the side of the building to slow down Orpheus' fall, and Syn races to catch him just in time. (Bridal style!)
+
+From the broken window, Father Jonathan points down at all three of us and shouts: *"Heretics! Heretics!"*
+
+## post-session notes
+
+Later we learned about Orpheus' stay in the Brick.
+
+Apparently, having learned blood magic was a thing, he *mindspiked* the poor prisoners in neighboring cells, then used *shape water* to collect their fucking blood. (Mikey says he headcanons that Aelyn took 3 whole mindspikes to kill. Wow! He also says the prisoners were in super bad shape anyway, *nevermind Aelyn was perfectly healthy at the time.* qwq)
+
+Orpheus tried to use blood as components to summon Salem *outside* of the Brick. He was successful, but... we all know how that ended.
+
+**Speculations:**
+- Kaiser likely rules Eastern Riverbed.
+	- I think this because both guards on the Bridge connecting East, West, *and* leading towards the [[3. Locations/Buildings-Landmarks/Giant Mouse Statue of Ilmater|Giant Mouse Statue of Ilmater]], said: *"We're under strict orders from **both Father Jonathan AND Kaiser** not to let people into the statue."*
+	- Western and Eastern Riverbed also have very different cultures. Eastern Riverbed seems to be a *party town*, regardless of when it's time for payer. At least, that's what it seems like.
+	- This is such an easy theory to prove or disprove tbh, literally all we have to do is ask one single person "Who is Kaiser?" LOL
+- [[2. Mysteries/Father Jonathan|Father Jonathan]] and [[2. Mysteries/'Ghostly' Figure|'Ghostly' Figure]] are one in the same.
+	- If not, then they must be working together if what Idane said is true.
+	- Unless... the Figure is actually Kaiser LOL. Frick.
+- The personal belongings may have been taken as a way to *scry* us.
+	- Or some other kind of voodoo-hoodoo, frankly.
+
 
 </div></div>
