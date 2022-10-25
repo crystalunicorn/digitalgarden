@@ -7,7 +7,7 @@
 - speak [[4. World/Languages/Draconic|Draconic]]
 
 ## Notes
-- first discovered raiding [[3. Locations/Settlements/Azmarin Village|Azmarin Village]] and [[2. Mysteries/Azmarin Village Kidnappings|kidnapping villagers]] - [[6. Inbox - Session Notes/Archive/2022-08-14|2022-08-14]]
+- first discovered raiding [[3. Locations/Settlements/Azmarin Village|Azmarin Village]] and [[2. Mysteries/Azmarin Village Kidnappings|kidnapping villagers]] - [[Inbox - Session Notes/Archive/2022-08-14|2022-08-14]]
 - seemingly brought back from extinction (?)
 	- Saur'barag the Obsidian warns us of 'creatures coming back from extinction' and reacts negatively hearing about the Lizardfolk returning
 - were friendly with [[3. Locations/Settlements/Azmarin Village|Azmarin Village]] at first, until things took a turn
