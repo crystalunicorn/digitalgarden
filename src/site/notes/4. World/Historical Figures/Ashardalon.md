@@ -9,7 +9,7 @@
 - creator of [[2. Mysteries/Cyzste Zimno|Cyzste Zimno]]
 
 ## Notes
-- first told of by Ambesh on a full moon - [[6. Inbox - Session Notes/2022-09-25|2022-09-25]]
+- first told of by Ambesh on a full moon - [[Inbox - Session Notes/2022-09-25|2022-09-25]]
 - born of The[[ Holy Light| Holy Light]]
 - often conflated with The Holy Light
 - stood against the flames, controlling and bending them to it's own will
@@ -24,11 +24,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 Many believe it was the might of The [[Closed Eye|Closed Eye]] that tipped the scales of the war. Though The [[Confluence|Confluence]] and Closed Eye are attributed to quelling many Chromatic Adversaries, one such enemy stood. A blinding light to the Eye, the barrier to the Confluence: [[4. World/Historical Figures/Ashardalon|Ashardalon]].
 
