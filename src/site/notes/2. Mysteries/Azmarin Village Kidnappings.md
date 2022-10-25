@@ -6,7 +6,7 @@
 - [[4. World/Creatures/Lizardfolk|Lizardfolk]] kidnapping villagers in [[3. Locations/Settlements/Azmarin Village|Azmarin Village]] for the purposes of [[4. World/Lore/Direct Knowledge#Blood Magic|ritual sacrifice]]
 
 ##### Notes
-- first discovered raiding Azmarin Village, kidnapping villagers - [[6. Inbox - Session Notes/Archive/2022-08-14|2022-08-14]]
+- first discovered raiding Azmarin Village, kidnapping villagers - [[Inbox - Session Notes/Archive/2022-08-14|2022-08-14]]
 - lizardfolk visited the village a month prior as younglings
 - kidnappings started small until lizardfolk "became bolder"
 - last raid was a week prior (Solisary 14th)
