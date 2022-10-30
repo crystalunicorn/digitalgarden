@@ -5,6 +5,7 @@
 # Sessions
 | File                                                        | Summary                                                                                                                    | Num. |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [[Inbox - Session Notes/2022-10-30.md\|2022-10-30]]         |                                                                                                                            | 8    |
 | [[Inbox - Session Notes/2022-10-23.md\|2022-10-23]]         |                                                                                                                            | 7    |
 | [[Inbox - Session Notes/2022-10-02.md\|2022-10-02]]         | A foreboding day touring Riverbed, a town of zealots. We hear Jalanvaloss' name for the first time...                      | 6    |
 | [[Inbox - Session Notes/2022-09-25.md\|2022-09-25]]         | Ambesh gives us Lore. We head for Riverbed, encountering a Stone Golem and a Madman on the road.                           | 5    |
