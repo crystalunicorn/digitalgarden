@@ -9,6 +9,7 @@
 | [[2. Mysteries/'Ghostly' Figure.md\|'Ghostly' Figure]]                                               | A mysterious figure with one glowing white eye, garbed in black, and holding a white staff.           | NPC      |
 | [[Inbox - Session Notes/2022-10-02.md\|2022-10-02]]                                                  | A foreboding day touring Riverbed, a town of zealots. We hear Jalanvaloss' name for the first time... | session  |
 | [[Inbox - Session Notes/2022-10-23.md\|2022-10-23]]                                                  |                                                                                                       | session  |
+| [[Inbox - Session Notes/2022-10-30.md\|2022-10-30]]                                                  |                                                                                                       | session  |
 | [[4. World/Historical Figures/Ashardalon.md\|Ashardalon]]                                            | The First Dragon, THE Ancient Red Dragon, The Holy Light                                              | dragon   |
 | [[3. Locations/Settlements/Azmarin Village.md\|Azmarin Village]]                                     | A small fishing village, plagued with Lizardfolk raids.                                               | place    |
 | [[2. Mysteries/Azmarin Village Kidnappings.md\|Azmarin Village Kidnappings]]                         | Lizardfolk raiding Azmarin Village for sacrifices.                                                    | event    |
