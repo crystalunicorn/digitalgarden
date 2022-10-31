@@ -21,7 +21,8 @@
 - [ ] investigate '[[2. Mysteries/Father Jonathan|Father Jonathan]]'
 - [ ] follow-up with the [[3. Locations/Buildings-Landmarks/Glass Alchemist|Glass Alchemist]] RE: [[2. Mysteries/Black Sludge#the sample|Black Sludge Sample]]
 - [ ] **escape Riverbed alive!?**
-	- [ ] save Julierose and Emile from the Brick (oops!)
+	- [x] save Julierose and Emile from the Brick (oops!)
+- [ ] restore Emile's appendages (qwq)
 
 ##### questions to ask the dragons
 - who is [[Ignacious|Ignacious]] and why is he often mentioned in the same breath as [[4. World/Historical Figures/Ashardalon|Ashardalon]]?
