@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mystery/caveman","permalink":"/mystery/caveman/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"mystery/caveman","permalink":"/mystery/caveman/"}
 ---
 
 ##### Description
@@ -11,8 +11,8 @@
 	- seemed tribalistic
 
 ##### Notes
-- first discovered as a projection of an idividual in [[2. Mysteries/Lizardfolk Den|Lizardfolk Den]] - [[Inbox - Session Notes/Archive/2022-08-21|2022-08-21]]
-- appears to have ties with the [[4. World/Creatures/Lizardfolk|Lizardfolk]]
+- first discovered as a projection of an idividual in [[2. Mysteries/Lizardfolk Den\|Lizardfolk Den]] - [[Inbox - Session Notes/Archive/2022-08-21\|2022-08-21]]
+- appears to have ties with the [[4. World/Creatures/Lizardfolk\|Lizardfolk]]
 	- perhaps giving orders to them
 - "ghost" disappeared after departing with some choice words
 	- *"It's a shame that you chose to poke your head in. Now this place will be your grave."*
@@ -21,18 +21,18 @@
 	- acts like scrying 
 	- allows communication from vast distances
 	- not extraplanar, source is this plane
-	- originates from [[3. Locations/Settlements/Riverbed|Riverbed]]
-- capable of speaking [[Common|Common]] and [[4. World/Languages/Draconic|Draconic]]
+	- originates from [[3. Locations/Settlements/Riverbed\|Riverbed]]
+- capable of speaking [[Common\|Common]] and [[4. World/Languages/Draconic\|Draconic]]
 
 ##### Honeymoon Island
-- seemingly taken an interest in [[3. Locations/Subregions/Honeymoon Island|Honeymoon Island]]
-	- looked at and/or burned books from the [[Mono'lak Observatory|Mono'lak Observatory]] 
+- seemingly taken an interest in [[3. Locations/Subregions/Honeymoon Island\|Honeymoon Island]]
+	- looked at and/or burned books from the [[Mono'lak Observatory\|Mono'lak Observatory]] 
 		- Mono'lak Observatory stamp design:
 			- a collection of stars with a telescope
 		- about the seasons & changes in temperatures
-		- written in [[Common|Common]]
+		- written in [[Common\|Common]]
 		- slightly burnt and tattered
 - also in looked at/tried to burn a children's book
 	- about a knight that fought the dragons many years ago, using a weapon made by dragons
 		- hid the weapon away
-	- now suspect it's a fable about [[2. Mysteries/Cyzste Zimno|Cyzste Zimno/Cold Crusader]]
+	- now suspect it's a fable about [[2. Mysteries/Cyzste Zimno\|Cyzste Zimno/Cold Crusader]]
