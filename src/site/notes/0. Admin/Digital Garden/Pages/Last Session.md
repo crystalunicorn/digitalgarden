@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"lastsesh","permalink":"/lastsesh/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"lastsesh","permalink":"/lastsesh/"}
 ---
-
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -9,154 +8,147 @@
 
 
 
-# Father May I?
+# Life and Limb
 ## summary:
-... (To Be Written)
+... (To be Written)
 
 ---
 
 ## log:
-Bast, Syn, Emile do reconnaissance at the bridge attaching East and West Riverbed and the [[3. Locations/Buildings-Landmarks/Giant Mouse Statue of Ilmater|Mouse Statue]]. Bast and Syn pretend to be lovers on a night walk as a cover.
+Orpheus heads to the Feasting Field, gathering enough components to resummon Salem. He removes the obsidian gemstone from Salem's circlet and heads deeper into the cavern beneath Riverbed.
 
-*"We're under strict orders from both [[2. Mysteries/Father Jonathan|Father Jonathan]] and [[Kaiser|Kaiser]]."*
+Syn & Bast head to Kaiser's Colosseum, through the Feasting Field. Eastern Riverside seems well-maintained on the Feasting Field, compared to Western.
+- Almost a long forum, people discuss all sorts of things, including politics.
+- 28 total senators, all 4 targets are senators.
+	- Senators in a small village seems like overkill, especially *28.* Traditionally, Senators are representatives of the people and *should* be accessible to the people, via meetings etc. Typically contacted through a secretary who knowns their schedule better.
 
-Bast's familiar sneaks into the [[3. Locations/Buildings-Landmarks/Giant Mouse Statue of Ilmater|Mouse Statue]].
-- Insides are lined with eggs and a pulsing fleshy membrane.
-- Bottom center is circled by cages.
-- Center of cages is a deep, red sigil, similar to the lizardfolk tunnel in Azmarin Village.
+Bast and Syn pretend to be a traveling dignitary and her bodyguard, passing through to pay their respects and ask about the (fascinating) local politics. We gather information...
+- **The Targets:**
+	- ==All Senators that surround [[Lori Drill\|Lori Drill]]'s territory.==
+	- Jon Oro: Southern merchant feasting field.
+		- family crest: two fish cresting over into each other, singular rod betwixt them
+		- description: older gentleman, deep wrinkles, white hair on a balding head, clean-shaven, yellow robes with black fur over shoulders
+	- Ferro Clacks: halfling woman (guarded)
+	- Adaine Blanche: half-elven woman (guarded)
+	- ==Xan Jian'lashen: human man, black hair, *similar build to Emile* (unguarded)==
+- Acquire a flyer with the addresses of every Senator.
+- The secratary is chained to the desk in Jon Oro's office. Government work--at least for secretaries--appears to be an indentured service.
 
-Julierose heads to the Father's Court--looking for Bast, Syn, and Emile--and sees a dark cloth hanging over a shabby hut.
-- Seems to grow (to the size of a shirt.)
-- Small white light glows beneath the cloth.
-- Shoots away when Julierose takes a step closer.
-- Went towards the river (the bridge).
+(Bast's full title is: *Sabast'e Oussand of Megwandiir Clan, Da'nos of the Fourth Eye*)
 
-Julierose meets up with the rest of the party and says Orpheus might be in trouble.
+Emile, with Cassidy's help, manifests a phantom hand for a brief moment.
 
-According to Julierose: Orpheus told a mirror in the inn that we had gemstone scales, Julierose heard footsteps coming upstairs, Orpheus shoves her out of a window, then closes the window.
-- The mirror also had a crystal inlaid into it. It appears to light up when it's "in use," though we're not exactly sure what that entails.
-- Seems the troops mobilized quickly.
+A luminescent fish swims into Lori's tent, brightens, then the light dissipates.
 
- The group (Syn) briefly ponder leaving Orpheus behind, but is quickly reminded about Julierose's contract with him and what fate she may befall if something happens to ~~the fool~~ our companion.
+Julierose and Emile have a conversation RE: Julie's missing hand.
 
-Heading back to the inn, we see [[1. Characters/NPCs/Aelyn the Innskeeper|Aelyn the Innskeeper]] being dragged away by guards.
+Orpheus heads deeper into the tunnels, at a crossroads, with the obsidian gemstone. [[Saur'barag the Obsidian\|Saur'barag]]'s eye briefly appears.
 
-Inside the inn: the main lobby is ransacked with a crudely made dagger lying on the ground (not taken). The upstairs rooms are *not tossed*, however any personal belongings have been taken, like Syn's cloak. **According to Julierose:** *The mirror Orpheus was examining has also been taken.* The group theorizes either Orpheus took it or the guards did. We think it's likely Orpheus was taken *because* the room he and Julierose were reportedly in had not been tossed, meaning the guards didn't have to *search* for him. Bast suspects the Brick is a prison of some kind and the most likely place Orpheus has been taken.
+Orpheus makes contact with *something* and makes a pact. (Woo Warlock!) ==**Orpheus throws away the obsidian gemstone.**== (NOTE: James did an incredible job describing and voicing this whole encounter, holy shit. Truly captivating and terrifying, what a great treat to receive on Halloween.)
 
-Outside the inn, our cart and horse Meadow is in fine condition, no *apparent* tampering. However personal items have, again, been taken. Adventuring gear--or things of value--have been left alone.
+Bast asks Syn if it's possible to transplant someone's eyes. (It is, but requires a very dexterous hand to do so.) She then secures a room at the [[Torn Table\|Torn Table]]. A circular inn, circular tables, circular spire, etc. 1SP per day per room. They part ways, Syn heads back down to the [[Hidden Blade\|Hidden Blade]] hideout.
 
-The group takes the cart and horse into a back alley for safe keeping.
+==Orpheus "restores" Julierose's hand. **It's skeletal now**==. He tries to do the same for Emile, but Syn gets in his way. The two have an altercation, Orpheus claiming this action counts as an apology, that he *"Fixed it"*, and Syn, mortified, repeatedly saying *"She didn't want that!"* 
 
-Emile spots a small shadowy figure in the darkness, beckoning for him. *"Pssst. Pssst."* Emile, Julierose, and Syn follow it. Partway through Emile stops and heads back to the cart with Bast.
+In the end, Orpheus heads away, with Julierose following him. 
 
-Syn and Julie chase after a small child to the hut the cloth was hanging over prior.
-Bast and Emile stay behind with the cart.
+==*Orpheus then coughs up black sludge.*==
 
-Within the shabby hut:
-- 2 small children, the one we followed and a small half-orc boy
-	- Shaylee - small human girl
-	- Casper - half (tidal) orc boy
-- a halfling wearing a cloak, lying on the floor
-	- cloak has a sigil similar to the one on Marigold's cloak
-		- likely from the [[Court of Aspirant|Court of Aspirant]]
-	- [[Idane Rumblegrove|Idane Rumblegrove]] - ArchMage of Riverbed
+</div></div>
 
-Idane's warning:
-- Darkness brewing, God in ruins, a false prophet taken over
-	- God in ruins: likely referencing Ilmator's fall
-	- False prophet: Father Jonathan
-- Father Jonathan has a partner, someone of "pure greed"
-- This "partner" has shriveled Idane's hand and arm for their "dark work"
-	- Idane's arm shows signs of frostbite.
-	- Later we learn Idane went into the [[3. Locations/Buildings-Landmarks/Giant Mouse Statue of Ilmater|Giant Mouse Statue of Ilmater]] to [stop the dark work being conducted] #unsure - Failing to do so, she tried to save as many as she could. She escaped with the two small children and a badly frostbitten arm.
-- No matter what, we must never enter The Brick.
 
-The children are sent away to fetch some water. Idane nearly passes. Julierose resuscitates her (NAT20 let's fucking go.)
+---
 
-To save her, Syn and Julierose cut off Idane's arm. It's a brutal, bloody affair, but *Idane survives.* The children return shortly after, traumatized but understanding...
 
-Emile, having followed the children, reunites with Julierose and Syn (walking in on a gory scene and being understandably confused by it.) He's put to work helping clean up the blood.
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-*Meanwhile, at the cart...*
 
-Zombie Salem (a horribly mangled, 'incomplete' Salem) visits Bast in the cart, presumably looking for the rest of the party.
 
-Bast destroys zombie Salem. Tries to rip the gemstone from it's forehead (successfully but also unsuccessfully, Salem poofs.)
 
-Bast hides the cart in the wilderness.
+# Brick by Brick
+## summary:
+... (To be Written)
 
-Bast transforms into a rat, uses keen smell to locate the others (noting Syn's particular perfume 😏), breaks Wild Shape, enters the hut. She's brought to speed on what happened with the halfling woman and we head out into the wilderness to speak with the dragons.
+---
 
-We converse with [[Myrthe The Emerald|Myrthe The Emerald]]. We only have time for one question.
-- "How do we save Orpheus?"
-	- *To save Orpheus, you need to strike when the sun touches the hills. Where the flames below lick the brick. And when the red steel is stained with their own.*
+## log:
+Julie & Emile head deeper into [[3. Locations/Buildings-Landmarks/The Brick\|The Brick]]. 
+They both fall under some kind of enchantment and succumb to The Brick.
 
-We ask Idane a few questions. 
-- [[3. Locations/Buildings-Landmarks/The Brick|The Brick]]:
-	- "No one who enters the Brick comes out the same."
-- [[4. World/Historical Figures/Jalanvaloss|Jalanvaloss]]:
-	- **Likes Human Cuisine.** (Insert *Oh God Soylent Green Is People* joke.)
-	- ***"Do not eat the food."*** (Bast ate the food. She thought it tasted fine...)
+[[2. Mysteries/Father Jonathan\|Father Jonathan]] orders for the capture (or killing) of Bast, Orpheus, and Syn. A fight breaks out with villagers and guards chasing.
 
-Casper says he's seen people carrying wood into The Brick. (*Where the flames below lick the brick*.) We ask him to take us in that direction.
+Orpheus tells us to help the Red Knights heading to The Brick we saw before--reportedly from Fort Joy (?) *We enter combat.*
 
-*Meanwhile, with Orpheus...*
+##### Combat Cliffnotes
+- Orpheus gets the attention of the Red Knights, who seem to be allies.
+- Red Knights return Orpheus' satchel (in a sweet toss).
+- Orpheus tells us to go South (q_q)
+- Bast has people eaten by fucking spiders.
 
-Orpheus has been kept in the Brick.
+##### The Brick (In Tandem to Combat)
+- Julierose feeds a fuzzy rabbit some rations (left hand).
+- Emile imagines his paradise is with Cassidy and takes her hand (right hand).
+- ==Emile wakes up... without a **right hand** or **both feet**.== (Q_Q)
+- ==Julierose is missing a **left hand**.==
+- Emile dispatches the butcher and wakes Julierose.
+- They recover their things, Julierose carries Emile upstairs (through some kind of freezer with 'meat cuts')
 
-Orpheus is taken to meet with Father Jonathan in the [[3. Locations/Buildings-Landmarks/Church of the Father|Church of the Father]].
-- There is a large *dodecahedron* in the upper keep. [Exterior design is fuzzy.] #unsure 
-	- It opens up "like the wings of a butterfly unfolding for the first time."
-	- Inside is lined with mirrors upon mirrors. Father Jonathan emerges from within.
+The gang is reunited. Synadriel heals Emile's leg stumps (crying) to prevent major blood loss. Half the party fends off guards while the rest run. Eventually we all jump down a well together, heading South.
 
-Orpheus is offered to eat with Papa John. They have... Papa John's pizza. (It's a new fad! And tragically mid. Orpheus doesn't like it. He also eats it with a knife and fork.)
+The well is dotted with air pockets. Takes 20 minutes to move through.
 
-Father Jonathan briefly interrogates Orpheus.
-- "What is a gemstone dragon?"
-	- "A being not unlike a metallic or chromatic dragon. They live on another plane."
-- Orpheus says the gemstone scales are proof of "their eventual return".
-- Asks if Orpheus thinks he's more powerful, then demonstrates the "gifts" he's been given.
+Cavern is at the end of the tunnel. An encampment is here (several banners, tents, swords,) dark clothes, dark cloaks, no identifying marks. 15-20 people. They relax when they see the two Red Knights breech.
 
-The Father Jonathan sitting opposite of Orpheus collapses in a heap, revealed to be a skeleton being puppeted. The real Father Jonathan comes down from the ceiling.
-- He is a massive man. (Mechanically, nearly reaching the "Large" category.)
-- Holds the same staff as [[2. Mysteries/'Ghostly' Figure|'Ghostly' Figure]]. *Likely one in the same.*
-- Seems to wield ice powers.
-- Seems to crave power and control, with no care for free will. *Likely the partner of "pure greed" Idane mentioned.*
+[[Lori Drill\|Lori Drill]], 'leader' of the [[Hidden Blade\|Hidden Blade]], greets us. (Description: thick black hair, gold bands, somewhat ornately dressed. Dignified air.) (Formerly a senator. Claims not to lead the Hidden Blade, *"You cannot will steel."*)
 
-Orpheus makes a run for the window, just barely avoiding Father Jonathan's *hold person*.
+Orpheus and Bast join Drill for a chat. 
+- The [[Hidden Blade\|Hidden Blade]] remembers [[4. World/Dieties/Ilmater\|Ilmater]]'s greatness. Drill wants to kill [[Kaiser\|Kaiser]], the leader of Eastern Riverbed. They seek to remove the false prophets.
+- Bast divulges the false prophets worship a [[4. World/Historical Figures/Jalanvaloss\|Silver Dragon]].
+	- Drill does not believe this, but believes the group share a common goal.
+- Drill extends an offer to join the cause.
 
-*Meanwhile, with the rest of the gang...*
+Bast briefly exits but listens in.
+- Orpheus pledges allegance. 
+- Asks for things necessary to restore limbs. Is referred to Drill's daughter [[Nora Drill\|Nora]].
 
-At the lumberyard, people are being paid a copper to ferry wood to The Brick. Emile and Julierose get in line. They are handed a slip of paper reading: Alolan Shalofo.
+Emile and Julierose are being tended to, Syn stays with them.
+- [[Nora Drill\|Nora Drill]] attends to their wounds.
+- Options to restore limbs:
+- Make a deal (risky)
+	- **Otherworldly Patronage:** possibly with a deal, or something else
+	- deal with *"whoever answers your call"*
+	- needs to be at a crossroads in the black of night
+- Get dirty
+- Magical restoration (difficult, expensive)
+	- about 5 gold
+		- need to find someone with the gems on hand, won't be easy
+	- Emile has: 999 silver (given to Syn)
+- Smithy for prosthetics (need something in return, don't deal with gold)
+	- **Automail:** takes time and physical therapy. needs regular upkeep.
+- Primal substitute (requires research)
+	- **Elemental Substitute:** requires primal magic, very occult and hidden
+- Carver for wood prosthetics
 
-At the Brick, Emile is turned away (likely for being too lanky.) Julierose is offered another copper to ferry wood *inside* of the Brick (likely for being too juicy.) Emile attempts to follow her inside with an *Invisibility* spell, but it propelled away. He drops the spell and runs in after her anyway.
+Orpheus and Bast rejoin the 3 being tended to, briefly talks with Nora RE: Red Knight's health, options to help Julie and Emile.
 
-Inside the Brick are rows and rows of jail cells, many of them quiet. [[1. Characters/NPCs/Aelyn the Innskeeper|Aelyn the Innskeeper]] is seen down here, eyes wide and unresponsive. (We later learn she's fricken dead as hell.) They get deeper inside, where it gets hotter and hotter...
+- [[Zarrow Swiftsong\|Zarrow Swiftsong]] hands out the cloaks and conducts the admission into the [[Hidden Blade\|Hidden Blade]].
+	- being sworn in involves two slices across the forearm and drinking a poison/truth serum to unwittingly divulge a hidden truth.
 
-Outside of the Brick: as dawn approaches, Syn and Bast spot two bloodied, limping guards coming from the Bridge and towards the Brick. *They wear red steel armor, covered with what seems to be their own blood.* A minute later, the two hear a loud crash.
+To help gather appendages for our friends, we are given assassination targets to be eliminated on behalf of the [[Hidden Blade\|Hidden Blade]].
+- Targets to be eliminated:
+	- Ferro Clacks
+	- Adaine Blanche
+	- Xan Jian'lashen
+	- Jon Oro
+- Places to find targets:
+	- Feasting Field
+	- Hearts Cell
+	- Kaiser's Colosseum
 
-Orpheus falls from the top of the [[3. Locations/Buildings-Landmarks/Church of the Father|Church of the Father]]. With quick thinking, Bast casts *Entaglement* on the side of the building to slow down Orpheus' fall, and Syn races to catch him just in time. (Bridal style!)
+Orpheus refuses to help Bast and Syn harvest 'the resources necessary' to restore Emile's appendages, stating he'll help them in his own way. It's also revealed the two parties don't trust each other. (Orpheus also offered his own arm for the job, but was rejected for being 'too scrawny for Emile')
 
-From the broken window, Father Jonathan points down at all three of us and shouts: *"Heretics! Heretics!"*
+Julierose agrees to help Syn with the process of restoring Emile's appendages, but declines the help herself, stating that she's fine this way. *"You may not understand this, but I feel free now."*
 
-## post-session notes
-
-Later we learned about Orpheus' stay in the Brick.
-
-Apparently, having learned blood magic was a thing, he *mindspiked* the poor prisoners in neighboring cells, then used *shape water* to collect their fucking blood. (Mikey says he headcanons that Aelyn took 3 whole mindspikes to kill. Wow! He also says the prisoners were in super bad shape anyway, *nevermind Aelyn was perfectly healthy at the time.* qwq)
-
-Orpheus tried to use blood as components to summon Salem *outside* of the Brick. He was successful, but... we all know how that ended.
-
-**Speculations:**
-- Kaiser likely rules Eastern Riverbed.
-	- I think this because both guards on the Bridge connecting East, West, *and* leading towards the [[3. Locations/Buildings-Landmarks/Giant Mouse Statue of Ilmater|Giant Mouse Statue of Ilmater]], said: *"We're under strict orders from **both Father Jonathan AND Kaiser** not to let people into the statue."*
-	- Western and Eastern Riverbed also have very different cultures. Eastern Riverbed seems to be a *party town*, regardless of when it's time for payer. At least, that's what it seems like.
-	- This is such an easy theory to prove or disprove tbh, literally all we have to do is ask one single person "Who is Kaiser?" LOL
-- [[2. Mysteries/Father Jonathan|Father Jonathan]] and [[2. Mysteries/'Ghostly' Figure|'Ghostly' Figure]] are one in the same.
-	- If not, then they must be working together if what Idane said is true.
-	- Unless... the Figure is actually Kaiser LOL. Frick.
-- The personal belongings may have been taken as a way to *scry* us.
-	- Or some other kind of voodoo-hoodoo, frankly.
 
 
 </div></div>
