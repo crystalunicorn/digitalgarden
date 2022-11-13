@@ -24,7 +24,7 @@ Syn & Bast head to Kaiser's Colosseum, through the Feasting Field. Eastern River
 
 Bast and Syn pretend to be a traveling dignitary and her bodyguard, passing through to pay their respects and ask about the (fascinating) local politics. We gather information...
 - **The Targets:**
-	- ==All Senators that surround [[Lori Drill\|Lori Drill]]'s territory.==
+	- ==All Senators that surround [[Lori Nadril\|Lori Nadril]]'s territory.==
 	- Jon Oro: Southern merchant feasting field.
 		- family crest: two fish cresting over into each other, singular rod betwixt them
 		- description: older gentleman, deep wrinkles, white hair on a balding head, clean-shaven, yellow robes with black fur over shoulders
@@ -99,20 +99,20 @@ The well is dotted with air pockets. Takes 20 minutes to move through.
 
 Cavern is at the end of the tunnel. An encampment is here (several banners, tents, swords,) dark clothes, dark cloaks, no identifying marks. 15-20 people. They relax when they see the two Red Knights breech.
 
-[[Lori Drill\|Lori Drill]], 'leader' of the [[Hidden Blade\|Hidden Blade]], greets us. (Description: thick black hair, gold bands, somewhat ornately dressed. Dignified air.) (Formerly a senator. Claims not to lead the Hidden Blade, *"You cannot will steel."*)
+[[Lori Nadril\|Lori Nadril]], 'leader' of the [[Hidden Blade\|Hidden Blade]], greets us. (Description: thick black hair, gold bands, somewhat ornately dressed. Dignified air.) (Formerly a senator. Claims not to lead the Hidden Blade, *"You cannot will steel."*)
 
-Orpheus and Bast join Drill for a chat. 
-- The [[Hidden Blade\|Hidden Blade]] remembers [[4. World/Dieties/Ilmater\|Ilmater]]'s greatness. Drill wants to kill [[Kaiser\|Kaiser]], the leader of Eastern Riverbed. They seek to remove the false prophets.
+Orpheus and Bast join Nadril for a chat. 
+- The [[Hidden Blade\|Hidden Blade]] remembers [[4. World/Dieties/Ilmater\|Ilmater]]'s greatness. Nadril wants to kill [[Kaiser\|Kaiser]], the leader of Eastern Riverbed. They seek to remove the false prophets.
 - Bast divulges the false prophets worship a [[4. World/Historical Figures/Jalanvaloss\|Silver Dragon]].
-	- Drill does not believe this, but believes the group share a common goal.
-- Drill extends an offer to join the cause.
+	- Nadril does not believe this, but believes the group share a common goal.
+- Nadril extends an offer to join the cause.
 
 Bast briefly exits but listens in.
 - Orpheus pledges allegance. 
-- Asks for things necessary to restore limbs. Is referred to Drill's daughter [[Nora Drill\|Nora]].
+- Asks for things necessary to restore limbs. Is referred to Nadril's daughter [[Nora Nadril\|Nora]].
 
 Emile and Julierose are being tended to, Syn stays with them.
-- [[Nora Drill\|Nora Drill]] attends to their wounds.
+- [[Nora Nadril\|Nora Nadril]] attends to their wounds.
 - Options to restore limbs:
 - Make a deal (risky)
 	- **Otherworldly Patronage:** possibly with a deal, or something else
