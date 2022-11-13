@@ -23,9 +23,6 @@
 - [ ] **escape Riverbed alive!?**
 	- [x] save Julierose and Emile from the Brick (oops!)
 - [ ] assassinate [[Xan Jian'lashen\|Xan Jian'lashen]] for [[Lori Drill\|Lori Drill]] and the [[Hidden Blade\|Hidden Blade]]
-- [ ] restore Emile's appendages (qwq)
-	- [ ] harvest Xan
-	- [ ] successfully transplant them onto Emile
 
 ##### questions to ask the dragons
 - who is [[Ignacious\|Ignacious]] and why is he often mentioned in the same breath as [[4. World/Historical Figures/Ashardalon\|Ashardalon]]?
