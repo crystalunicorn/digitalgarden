@@ -33,6 +33,7 @@
 - [[Shia Zenberu\|Shia Zenberu]] - overtaken, killed
 	- bears a tattoo of the Mono'lak Observatory's sigil
 	- likely capable of magic
+- [[1. Characters/PCs/Orpheus\|Orpheus]] - coughed up black sludge after [[Inbox - Session Notes/2022-10-31\|making a pact]].
 
 ### NPCs aware of it's existence:
 - Voth
