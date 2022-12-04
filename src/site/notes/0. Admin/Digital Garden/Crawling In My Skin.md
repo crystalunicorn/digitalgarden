@@ -37,7 +37,7 @@
 
 ### 🍎 Reference:
 #### Recap
-- [[0. Admin/Digital Garden/Pages/Last Session\|Last Session - 2022-10-30/31]]
+- [[0. Admin/Digital Garden/Pages/Last Session\|Last Session - 2022-11-13/15]]
 - [[0. Admin/Sessions Log\|Sessions Log]]
 #### Locations
 - [[3. Locations/Settlements/Riverbed\|Riverbed]]
