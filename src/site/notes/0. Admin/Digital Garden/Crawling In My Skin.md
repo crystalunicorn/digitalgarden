@@ -6,11 +6,11 @@
 *end my suffering*
 
 ### 🍉 Status:
-🌐 **current location:** [[3. Locations/Settlements/Riverbed\|Riverbed]]
+🌐 **current location:** [[3. Locations/Settlements/Riverbed\|Riverbed]] (Eastern)
 💤 **long rest?:** no
 🎯 **goals:**
-- search for signs of the [[2. Mysteries/'Ghostly' Figure\|masked man]] or lizardfolk in Riverbed
-- head for Mono'lak to research [[2. Mysteries/Cyzste Zimno\|Cyzste Zimno]] & the [[Metallic & Chromatic Dragon Wars\|Dragon War]]
+- Usurp [[2. Mysteries/Father Jonathan\|Father Jonathan]] in [[3. Locations/Settlements/Riverbed\|Riverbed]]
+- Head for Mono'lak to research [[2. Mysteries/Cyzste Zimno\|Cyzste Zimno]] & the [[Metallic & Chromatic Dragon Wars\|Dragon War]]
 
 ---
 
@@ -22,7 +22,11 @@
 - [ ] follow-up with the [[3. Locations/Buildings-Landmarks/Glass Alchemist\|Glass Alchemist]] RE: [[2. Mysteries/Black Sludge#the sample\|Black Sludge Sample]]
 - [ ] **escape Riverbed alive!?**
 	- [x] save Julierose and Emile from the Brick (oops!)
-- [ ] assassinate [[Xan Jian'lashen\|Xan Jian'lashen]] for [[Lori Drill\|Lori Drill]] and the [[Hidden Blade\|Hidden Blade]]
+- [ ] assassinate four Senators for [[Lori Nadril\|Lori Nadril]] and the [[Hidden Blade\|Hidden Blade]]
+	- [ ] [[Ferro Clacks\|Ferro Clacks]]
+	- [ ] [[Adaine Blanche\|Adaine Blanche]]
+	- [ ] [[Xan Jian'lashen\|Xan Jian'lashen]]
+	- [ ] [[Jon Oro\|Jon Oro]]
 
 ##### questions to ask the dragons
 - who is [[Ignacious\|Ignacious]] and why is he often mentioned in the same breath as [[4. World/Historical Figures/Ashardalon\|Ashardalon]]?
