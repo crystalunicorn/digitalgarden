@@ -5,6 +5,8 @@
 # Sessions
 | File                                                        | Summary                                                                                                                                       | Num. |
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [[Inbox - Session Notes/2022-12-04\|2022-12-04]]         |                                                                                                                                               | 11   |
+| [[Inbox - Session Notes/2022-11-15\|2022-11-15]]         |                                                                                                                                               | 10.5 |
 | [[Inbox - Session Notes/2022-11-13\|2022-11-13]]         |                                                                                                                                               | 10   |
 | [[Inbox - Session Notes/2022-10-31\|2022-10-31]]         | Bast and Syn do reconnaissance. Orpheus makes a pact and gives Julierose a skeletal hand.                                                     | 9    |
 | [[Inbox - Session Notes/2022-10-30\|2022-10-30]]         | Julie and Emile escape the Brick, missing a few appendages. The gang discovers the Hidden Blade, are asked to assassinate someone for Nadril. | 8    |
