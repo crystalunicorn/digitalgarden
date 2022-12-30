@@ -16,10 +16,10 @@
 
 ### 🍓 To-Do:
 - [ ] investigate Riverbed
-- [ ] collapse the tunnel
+- [x] collapse the tunnel
 - [x] check for signs of new tracks leading to tunnel
 - [ ] investigate '[[2. Mysteries/Father Jonathan\|Father Jonathan]]'
-- [ ] follow-up with the [[3. Locations/Buildings-Landmarks/Glass Alchemist\|Glass Alchemist]] RE: [[2. Mysteries/Black Sludge#the sample\|Black Sludge Sample]]
+- [x] follow-up with the [[3. Locations/Buildings-Landmarks/Glass Alchemist\|Glass Alchemist]] RE: [[2. Mysteries/Black Sludge#the sample\|Black Sludge Sample]]
 - [ ] **escape Riverbed alive!?**
 	- [x] save Julierose and Emile from the Brick (oops!)
 - [ ] assassinate four Senators for [[Lori Nadril\|Lori Nadril]] and the [[Hidden Blade\|Hidden Blade]]
