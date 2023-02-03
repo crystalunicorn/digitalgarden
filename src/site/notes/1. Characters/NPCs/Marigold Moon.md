@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"NPC/marigold","permalink":"/NPC/marigold/"}
+{"dg-publish":true,"dg-permalink":"NPC/marigold","permalink":"/NPC/marigold/","tags":["HoneymoonIsland, POI"]}
 ---
 
 ##### Description
