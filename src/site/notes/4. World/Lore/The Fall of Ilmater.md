@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"lore/ilmaterfall","permalink":"/lore/ilmaterfall/"}
+{"dg-publish":true,"dg-permalink":"lore/ilmaterfall","permalink":"/lore/ilmaterfall/","tags":["riverbed/ChurchOfTheFather"]}
 ---
 
 [[4. World/Dieties/Ilmater\|Ilmater]] was the worshiped god in [[3. Locations/Settlements/Riverbed\|Riverbed]] until ominous things began to happen.
