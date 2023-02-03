@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"azmarin","permalink":"/azmarin/"}
+{"dg-publish":true,"dg-permalink":"azmarin","permalink":"/azmarin/","tags":["HoneymoonIsland"]}
 ---
 
 *A small fishing village, plagued with Lizardfolk raids.*
