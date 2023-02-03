@@ -5,6 +5,9 @@
 # Sessions
 | File                                                        | Summary                                                                                                                                       | Num. |
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [[Inbox - Session Notes/2023-01-29\|2023-01-29]]         |                                                                                                                                               | \-   |
+| [[Inbox - Session Notes/2023-01-12\|2023-01-12]]         |                                                                                                                                               | 14   |
+| [[Inbox - Session Notes/2023-01-08\|2023-01-08]]         |                                                                                                                                               | 13   |
 | [[Inbox - Session Notes/2022-12-11\|2022-12-11]]         |                                                                                                                                               | 12   |
 | [[Inbox - Session Notes/2022-11-15\|2022-11-15]]         | Julierose and Emile help Idane return to the Sheath. Bast and Syn find and recruit Ennui to impersonate a Senator.                            | 10.5 |
 | [[Inbox - Session Notes/2022-11-13\|2022-11-13]]         |                                                                                                                                               | 10   |
