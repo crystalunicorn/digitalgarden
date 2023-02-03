@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-admin/digital-garden/crawling-in-my-skin/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/0-admin/digital-garden/crawling-in-my-skin/","tags":["gardenEntry"]}
 ---
 
 # 🎃 Welcome to My Twisted Mind 👻
