@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mystery/azmarinraids","permalink":"/mystery/azmarinraids/"}
+{"dg-publish":true,"dg-permalink":"mystery/azmarinraids","permalink":"/mystery/azmarinraids/","tags":["mystery"]}
 ---
 
 ##### Description
