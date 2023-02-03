@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mystery/zimno","permalink":"/mystery/zimno/"}
+{"dg-publish":true,"dg-permalink":"mystery/zimno","permalink":"/mystery/zimno/","tags":["mystery"]}
 ---
 
 *(zee-ch-ay zim-noh)*
