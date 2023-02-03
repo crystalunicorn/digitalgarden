@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mystery/dragonawakening","permalink":"/mystery/dragonawakening/"}
+{"dg-publish":true,"dg-permalink":"mystery/dragonawakening","permalink":"/mystery/dragonawakening/","tags":["dragon, mystery, inbox"]}
 ---
 
 # The Dragons Stir...
