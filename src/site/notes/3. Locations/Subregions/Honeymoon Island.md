@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"myxinia/honeymoon","permalink":"/myxinia/honeymoon/"}
+{"dg-publish":true,"dg-permalink":"myxinia/honeymoon","permalink":"/myxinia/honeymoon/","tags":["HoneymoonIsland, inbox"]}
 ---
 
 *A humble island housing humble settlements.*
