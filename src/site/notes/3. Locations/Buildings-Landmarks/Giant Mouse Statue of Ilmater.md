@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"riverbed/mouse","permalink":"/riverbed/mouse/"}
+{"dg-publish":true,"dg-permalink":"riverbed/mouse","permalink":"/riverbed/mouse/","tags":["religious, religious/Ilmater"]}
 ---
 
 ##### Description
