@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mystery/blacktar","permalink":"/mystery/blacktar/"}
+{"dg-publish":true,"dg-permalink":"mystery/blacktar","permalink":"/mystery/blacktar/","tags":["mystery"]}
 ---
 
 ## Description
