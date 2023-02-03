@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"dragon/jalanvaloss","permalink":"/dragon/jalanvaloss/"}
+{"dg-publish":true,"dg-permalink":"dragon/jalanvaloss","permalink":"/dragon/jalanvaloss/","tags":["mystery, dragon, dragon/metallic, riverbed/ChurchOfTheFather, inbox"]}
 ---
 
 ## Description
