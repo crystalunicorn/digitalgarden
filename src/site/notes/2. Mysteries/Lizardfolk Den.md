@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mystery/lizardden","permalink":"/mystery/lizardden/"}
+{"dg-publish":true,"dg-permalink":"mystery/lizardden","permalink":"/mystery/lizardden/","tags":["mystery"]}
 ---
 
 ##### Description
