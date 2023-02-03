@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"dragon/ashardalon","permalink":"/dragon/ashardalon/"}
+{"dg-publish":true,"dg-permalink":"dragon/ashardalon","permalink":"/dragon/ashardalon/","tags":["mystery, dragon, dragon/chromatic, inbox"]}
 ---
 
 ## Description
