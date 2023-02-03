@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mystery/papajohn","permalink":"/mystery/papajohn/"}
+{"dg-publish":true,"dg-permalink":"mystery/papajohn","permalink":"/mystery/papajohn/","tags":["mystery, riverbed/ChurchOfTheFather"]}
 ---
 
 ##### Description
