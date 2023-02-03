@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mystery/caveman","permalink":"/mystery/caveman/"}
+{"dg-publish":true,"dg-permalink":"mystery/caveman","permalink":"/mystery/caveman/","tags":["mystery"]}
 ---
 
 ##### Description
