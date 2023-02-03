@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"riverbed/churchfather","permalink":"/riverbed/churchfather/"}
+{"dg-publish":true,"dg-permalink":"riverbed/churchfather","permalink":"/riverbed/churchfather/","tags":["religious"]}
 ---
 
 *Large cathedral-like building in the center of town.*
